@@ -1,0 +1,1613 @@
+{
+    "states": [
+        {
+            "id": "tamil-nadu",
+            "name": "Tamil Nadu",
+            "tagline": "The Land of Temples",
+            "headerImage": "linear-gradient(135deg, #D04848 0%, #F3B95F 100%)",
+            "mapCoordinates": {
+                "lat": 11.1271,
+                "lng": 78.6569
+            },
+            "facts": {
+                "formationDate": "26 January 1950",
+                "area": "130,058 km²",
+                "population": "72,147,030",
+                "capital": "Chennai",
+                "languages": [
+                    "Tamil"
+                ],
+                "famousFood": "Idli, Dosa, Sambar, Pongal, Chettinad Cuisine",
+                "stateAnimal": "Nilgiri Tahr",
+                "stateBird": "Emerald Dove",
+                "stateFlower": "Gloriosa Lily",
+                "stateTree": "Palm Tree"
+            },
+            "leadership": {
+                "governor": {
+                    "name": "R. N. Ravi",
+                    "photo": "img/GN_Images/Tamil_Nadu.jpg",
+                    "tenure": "September 2021"
+                },
+                "chiefMinister": {
+                    "name": "M. K. Stalin",
+                    "photo": "img/CM_Images/Tamil_Nadu.jpg",
+                    "tenure": "May 2021",
+                    "party": "DMK"
+                }
+            },
+            "history": "Tamil Nadu, earlier part of the Madras Presidency, became a separate state in 1950 and was renamed Tamil Nadu in 1969. It is the heartland of Dravidian culture, with an unbroken tradition of Tamil language, temple architecture, classical dance (Bharatanatyam), and literature for over 2,000 years. It was a stronghold of early dynasties like the Cholas, Pandyas, and Pallavas. Politically, it has been dominated by Dravidian parties since the 1960s.",
+            "touristPlaces": [
+                {
+                    "name": "Mahabalipuram",
+                    "image": "img/Tourists/mahabalipuram.jpg",
+                    "description": "A UNESCO World Heritage Site known for its ancient temples and rock carvings by the sea.",
+                    "bestTimeToVisit": "November to February",
+                    "significance": "Group of Monuments at Mahabalipuram"
+                },
+                {
+                    "name": "Ooty",
+                    "image": "img/Tourists/ooty.jpg",
+                    "description": "Popular hill station in the Nilgiri Hills known for its tea plantations and scenic beauty.",
+                    "bestTimeToVisit": "April to June, September to November",
+                    "significance": "Queen of Hill Stations"
+                }
+            ],
+            "festivals": [
+                "Pongal",
+                "Jallikattu",
+                "Natyanjali Dance Festival"
+            ],
+            "majorCities": [
+                "Chennai",
+                "Coimbatore",
+                "Madurai",
+                "Trichy",
+                "Salem"
+            ]
+        },
+        {
+            "id": "kerala",
+            "name": "Kerala",
+            "tagline": "God's Own Country",
+            "headerImage": "linear-gradient(135deg, #76B852 0%, #8DC26F 100%)",
+            "mapCoordinates": {
+                "lat": 10.8505,
+                "lng": 76.2711
+            },
+            "facts": {
+                "formationDate": "1 November 1956",
+                "area": "38,863 km²",
+                "population": "34,630,192",
+                "capital": "Thiruvananthapuram",
+                "languages": [
+                    "Malayalam"
+                ],
+                "famousFood": "Appam, Puttu, Fish Curry, Sadhya, Karimeen Pollichathu",
+                "stateAnimal": "Indian Elephant",
+                "stateBird": "Great Hornbill",
+                "stateFlower": "Kanikonna (Golden Shower)",
+                "stateTree": "Coconut Tree"
+            },
+            "leadership": {
+                "governor": {
+                    "name": "Arif Mohammed Khan",
+                    "photo": "img/GN_Images/kerala.jpg",
+                    "tenure": "September 2019"
+                },
+                "chiefMinister": {
+                    "name": "Pinarayi Vijayan",
+                    "photo": "img/CM_Images/kerala.jpg",
+                    "tenure": "May 2016",
+                    "party": "CPI(M)"
+                }
+            },
+            "history": "Kerala was formed on November 1, 1956, by merging Travancore, Cochin, and Malabar regions. It has an ancient history of trade with Romans, Arabs, and Chinese. Known as the land of spices, it was colonized by the Portuguese, Dutch, and finally the British. The region also has a strong tradition of literacy, social reform, and religious harmony. Kerala is now celebrated for its backwaters, high human development index, and progressive governance.",
+            "touristPlaces": [
+                {
+                    "name": "Alleppey Backwaters",
+                    "image": "img/Tourists/alleppey.jpg",
+                    "description": "Famous for its network of canals, houseboats, and paddy fields.",
+                    "bestTimeToVisit": "September to March",
+                    "significance": "Venice of the East"
+                },
+                {
+                    "name": "Munnar",
+                    "image": "img/Tourists/munnar.jpg",
+                    "description": "Hill station known for its sprawling tea plantations and cool climate.",
+                    "bestTimeToVisit": "September to May",
+                    "significance": "Kashmir of South India"
+                }
+            ],
+            "festivals": [
+                "Onam",
+                "Vishu",
+                "Thrissur Pooram"
+            ],
+            "majorCities": [
+                "Kochi",
+                "Kozhikode",
+                "Thrissur",
+                "Kollam",
+                "Kannur"
+            ]
+        },
+        {
+            "id": "karnataka",
+            "name": "Karnataka",
+            "tagline": "One State Many Worlds",
+            "headerImage": "linear-gradient(135deg, #FF758C 0%, #FF7EB3 100%)",
+            "mapCoordinates": {
+                "lat": 15.3173,
+                "lng": 75.7139
+            },
+            "facts": {
+                "formationDate": "1 November 1956",
+                "area": "191,791 km²",
+                "population": "61,095,297",
+                "capital": "Bengaluru",
+                "languages": [
+                    "Kannada"
+                ],
+                "famousFood": "Bisi Bele Bath, Mysore Masala Dosa, Ragi Mudde, Neer Dosa",
+                "stateAnimal": "Indian Elephant",
+                "stateBird": "Indian Roller",
+                "stateFlower": "Lotus",
+                "stateTree": "Sandalwood"
+            },
+            "leadership": {
+                "governor": {
+                    "name": "Thawar Chand Gehlot",
+                    "photo": "img/GN_Images/karnataka.jpg",
+                    "tenure": "July 2021"
+                },
+                "chiefMinister": {
+                    "name": "Siddaramaiah",
+                    "photo": "img/CM_Images/karnataka.jpg",
+                    "tenure": "May 2023",
+                    "party": "Congress"
+                }
+            },
+            "history": "Karnataka, earlier known as the State of Mysore, was renamed in 1973. It was formed on November 1, 1956, after merging Kannada-speaking regions from Bombay, Hyderabad, Madras, and Coorg states. Historically, it was home to powerful dynasties like the Chalukyas, Hoysalas, and the Vijayanagara Empire, which had its capital in Hampi. Under the British, the princely state of Mysore was ruled by the Wodeyar dynasty. Today, Karnataka is known for its IT hub Bengaluru, rich cultural legacy, and classical music traditions.",
+            "touristPlaces": [
+                {
+                    "name": "Hampi",
+                    "image": "img/Tourists/hampi.jpg",
+                    "description": "UNESCO World Heritage Site with ruins of the Vijayanagara Empire.",
+                    "bestTimeToVisit": "October to February",
+                    "significance": "Ancient Capital of Vijayanagara Empire"
+                },
+                {
+                    "name": "Mysore Palace",
+                    "image": "img/Tourists/mysore.jpg",
+                    "description": "Historical palace and royal residence of the Wadiyar dynasty.",
+                    "bestTimeToVisit": "July to March",
+                    "significance": "Most visited monument in India after Taj Mahal"
+                }
+            ],
+            "festivals": [
+                "Mysuru Dasara",
+                "Ugadi",
+                "Hampi Festival"
+            ],
+            "majorCities": [
+                "Bengaluru",
+                "Mysuru",
+                "Hubballi",
+                "Mangaluru",
+                "Belagavi"
+            ]
+        },
+        {
+            "id": "maharashtra",
+            "name": "Maharashtra",
+            "tagline": "The Land of Shivaji Maharaj",
+            "headerImage": "linear-gradient(135deg, #E96443 0%, #904E95 100%)",
+            "mapCoordinates": {
+                "lat": 19.7515,
+                "lng": 75.7139
+            },
+            "facts": {
+                "formationDate": "1 May 1960",
+                "area": "307,713 km²",
+                "population": "112,374,333",
+                "capital": "Mumbai",
+                "languages": [
+                    "Marathi"
+                ],
+                "famousFood": "Vada Pav, Misal Pav, Puran Poli, Poha, Kolhapuri Chicken",
+                "stateAnimal": "Indian Giant Squirrel",
+                "stateBird": "Yellow-footed Green Pigeon",
+                "stateFlower": "Jarul",
+                "stateTree": "Mango Tree"
+            },
+            "leadership": {
+                "governor": {
+                    "name": "Ramesh Bais",
+                    "photo": "img/GN_Images/maharastra.jpg",
+                    "tenure": "February 2023"
+                },
+                "chiefMinister": {
+                    "name": "Eknath Shinde",
+                    "photo": "img/CM_Images/maharastra.jpg",
+                    "tenure": "June 2022",
+                    "party": "Shiv Sena"
+                }
+            },
+            "history": "Maharashtra was formed on May 1, 1960, along with Gujarat, from the bilingual Bombay State. Historically, the region was part of the Maurya Empire and later ruled by the Satavahanas, Yadavas, Mughals, and the Maratha Empire led by Chhatrapati Shivaji Maharaj. Under the British, Bombay became a major trading hub. Post-independence, Maharashtra has evolved into an economic powerhouse and is home to Mumbai, India’s financial capital and Bollywood center.",
+            "touristPlaces": [
+                {
+                    "name": "Ajanta & Ellora Caves",
+                    "image": "img/Tourists/ajanta.jpg",
+                    "description": "UNESCO World Heritage Sites with ancient rock-cut cave monuments.",
+                    "bestTimeToVisit": "June to March",
+                    "significance": "Masterpieces of Buddhist religious art"
+                },
+                {
+                    "name": "Gateway of India",
+                    "image": "img/Tourists/gateway.jpg",
+                    "description": "Iconic arch monument built during British rule in Mumbai.",
+                    "bestTimeToVisit": "October to February",
+                    "significance": "Symbol of Mumbai"
+                }
+            ],
+            "festivals": [
+                "Ganesh Chaturthi",
+                "Gudi Padwa",
+                "Pola"
+            ],
+            "majorCities": [
+                "Mumbai",
+                "Pune",
+                "Nagpur",
+                "Nashik",
+                "Aurangabad"
+            ]
+        },
+        {
+            "id": "rajasthan",
+            "name": "Rajasthan",
+            "tagline": "Land of Kings",
+            "headerImage": "linear-gradient(135deg, #F2994A 0%, #F2C94C 100%)",
+            "mapCoordinates": {
+                "lat": 27.0238,
+                "lng": 74.2179
+            },
+            "facts": {
+                "formationDate": "30 March 1949",
+                "area": "342,239 km²",
+                "population": "68,548,437",
+                "capital": "Jaipur",
+                "languages": [
+                    "Hindi",
+                    "Rajasthani"
+                ],
+                "famousFood": "Dal Baati Churma, Ghewar, Laal Maas, Ker Sangri",
+                "stateAnimal": "Chinkara",
+                "stateBird": "Great Indian Bustard",
+                "stateFlower": "Rohida",
+                "stateTree": "Khejri"
+            },
+            "leadership": {
+                "governor": {
+                    "name": "Kalraj Mishra",
+                    "photo": "img/GN_Images/rajastan.jpg",
+                    "tenure": "September 2019"
+                },
+                "chiefMinister": {
+                    "name": "Bhajan Lal Sharma",
+                    "photo": "img/CM_Images/rajastan.jpg",
+                    "tenure": "December 2023",
+                    "party": "BJP"
+                }
+            },
+            "history": "Rajasthan, the Land of Kings, was formed by merging over 22 princely states after independence, with the process completed in 1956. Before that, it was known as Rajputana, ruled by powerful Rajput clans like the Sisodias, Rathores, and Chauhans. The region was known for its valor, forts (like Chittorgarh, Jaisalmer, and Mehrangarh), and resistance to Mughal rule. It became a unified state with Jaipur as its capital and remains a major center of tourism and heritage.",
+            "touristPlaces": [
+                {
+                    "name": "Jaipur City Palace",
+                    "image": "img/Tourists/jaipur.jpg",
+                    "description": "Royal residence with museums, courtyards and gardens in the Pink City.",
+                    "bestTimeToVisit": "October to March",
+                    "significance": "Part of UNESCO World Heritage Site"
+                },
+                {
+                    "name": "Udaipur Lake Palace",
+                    "image": "img/Tourists/udaipur.jpg",
+                    "description": "Romantic luxury hotel on an island in Lake Pichola.",
+                    "bestTimeToVisit": "September to March",
+                    "significance": "One of the most beautiful palaces in the world"
+                }
+            ],
+            "festivals": [
+                "Pushkar Fair",
+                "Teej",
+                "Gangaur"
+            ],
+            "majorCities": [
+                "Jaipur",
+                "Jodhpur",
+                "Udaipur",
+                "Kota",
+                "Bikaner"
+            ]
+        },
+        {
+            "id": "uttar-pradesh",
+            "name": "Uttar Pradesh",
+            "tagline": "Heartland of India",
+            "headerImage": "linear-gradient(135deg, #D38312 0%, #A83279 100%)",
+            "mapCoordinates": {
+                "lat": 26.8467,
+                "lng": 80.9462
+            },
+            "facts": {
+                "formationDate": "24 January 1950",
+                "area": "243,286 km²",
+                "population": "199,812,341",
+                "capital": "Lucknow",
+                "languages": [
+                    "Hindi",
+                    "Urdu"
+                ],
+                "famousFood": "Tunday Kababi, Petha, Litti Chokha",
+                "stateAnimal": "Swamp Deer",
+                "stateBird": "Sarus Crane",
+                "stateFlower": "Palash",
+                "stateTree": "Ashoka Tree"
+            },
+            "leadership": {
+                "governor": {
+                    "name": "Anandiben Patel",
+                    "photo": "img/GN_Images/uttar_pradesh.jpg",
+                    "tenure": "July 2019"
+                },
+                "chiefMinister": {
+                    "name": "Yogi Adityanath",
+                    "photo": "img/CM_Images/uttar_pradesh.jpg",
+                    "tenure": "March 2017",
+                    "party": "BJP"
+                }
+            },
+            "history": "Uttar Pradesh (UP) was known as the United Provinces under British rule and was renamed UP in 1950. Historically, it was the seat of Hindu epics (like Ayodhya and Mathura), Buddhism (Sarnath and Kushinagar), and Mughal glory (Agra and Fatehpur Sikri). It played a central role in India’s freedom movement with leaders like Gandhi, Nehru, and Subhas Chandra Bose visiting or originating from the region. It is India’s most populous and politically dominant state.",
+            "touristPlaces": [
+                {
+                    "name": "Taj Mahal",
+                    "image": "img/Tourists/taj.webp",
+                    "description": "One of the Seven Wonders of the World in Agra.",
+                    "bestTimeToVisit": "October to March",
+                    "significance": "UNESCO World Heritage Site"
+                },
+                {
+                    "name": "Varanasi Ghats",
+                    "image": "img/Tourists/ghats.png",
+                    "description": "Spiritual heart of India with ancient temples and Ganga Aarti.",
+                    "bestTimeToVisit": "November to February",
+                    "significance": "One of the oldest cities in the world"
+                }
+            ],
+            "festivals": [
+                "Kumbh Mela",
+                "Diwali",
+                "Holi"
+            ],
+            "majorCities": [
+                "Lucknow",
+                "Kanpur",
+                "Agra",
+                "Varanasi",
+                "Noida"
+            ]
+        },
+        {
+            "id": "bihar",
+            "name": "Bihar",
+            "tagline": "Land of Enlightenment",
+            "headerImage": "linear-gradient(135deg, #E55D87 0%, #5FC3E4 100%)",
+            "mapCoordinates": {
+                "lat": 25.0961,
+                "lng": 85.3131
+            },
+            "facts": {
+                "formationDate": "22 March 1912",
+                "area": "94,163 km²",
+                "population": "104,099,452",
+                "capital": "Patna",
+                "languages": [
+                    "Hindi",
+                    "Maithili"
+                ],
+                "famousFood": "Litti Chokha, Sattu Paratha, Khaja",
+                "stateAnimal": "Gaur",
+                "stateBird": "House Sparrow",
+                "stateFlower": "Marigold",
+                "stateTree": "Peepal"
+            },
+            "leadership": {
+                "governor": {
+                    "name": "Rajendra Arlekar",
+                    "photo": "img/GN_Images/bihar.jpg",
+                    "tenure": "February 2023"
+                },
+                "chiefMinister": {
+                    "name": "Nitish Kumar",
+                    "photo": "img/CM_Images/bihar.jpg",
+                    "tenure": "November 2005",
+                    "party": "JD(U)"
+                }
+            },
+            "history": "Bihar, the cradle of ancient Indian civilization, was the home of the Mauryan and Gupta empires, and the birthplaces of Buddhism and Jainism. Nalanda and Vikramshila, once world-renowned universities, thrived here. Under the British, it was part of the Bengal Presidency but became a separate province in 1912. Post-independence, it remained a large state until Jharkhand was separated in 2000. While facing development challenges, it remains politically influential.",
+            "touristPlaces": [
+                {
+                    "name": "Bodh Gaya",
+                    "image": "img/Tourists/bodh.jpg",
+                    "description": "Place where Gautama Buddha attained enlightenment.",
+                    "bestTimeToVisit": "October to March",
+                    "significance": "UNESCO World Heritage Site"
+                },
+                {
+                    "name": "Nalanda University",
+                    "image": "img/Tourists/nalanda.jpg",
+                    "description": "Ancient center of learning.",
+                    "bestTimeToVisit": "November to February",
+                    "significance": "Historical educational institution"
+                }
+            ],
+            "festivals": [
+                "Chhath Puja",
+                "Sonepur Mela",
+                "Buddha Jayanti"
+            ],
+            "majorCities": [
+                "Patna",
+                "Gaya",
+                "Bhagalpur",
+                "Muzaffarpur",
+                "Darbhanga"
+            ]
+        },
+        {
+            "id": "madhya-pradesh",
+            "name": "Madhya Pradesh",
+            "tagline": "The Heart of India",
+            "headerImage": "linear-gradient(135deg, #1E9600 0%, #FFF200 100%)",
+            "mapCoordinates": {
+                "lat": 23.4733,
+                "lng": 77.9470
+            },
+            "facts": {
+                "formationDate": "1 November 1956",
+                "area": "308,350 km²",
+                "population": "72,626,809",
+                "capital": "Bhopal",
+                "languages": [
+                    "Hindi"
+                ],
+                "famousFood": "Poha, Bhutte ka Kees, Dal Bafla",
+                "stateAnimal": "Barasingha",
+                "stateBird": "Indian Paradise Flycatcher",
+                "stateFlower": "Lily",
+                "stateTree": "Banyan"
+            },
+            "leadership": {
+                "governor": {
+                    "name": "Mangubhai Patel",
+                    "photo": "img/GN_Images/madya_pradesh.jpg",
+                    "tenure": "July 2021"
+                },
+                "chiefMinister": {
+                    "name": "Mohan Yadav",
+                    "photo": "img/CM_Images/madhya_pradesh.jpg",
+                    "tenure": "December 2023",
+                    "party": "BJP"
+                }
+            },
+            "history": "Madhya Pradesh, often called the 'Heart of India', was formed on November 1, 1956, by merging Madhya Bharat, Vindhya Pradesh, Bhopal, and Central Provinces & Berar. It was home to great dynasties like the Mauryas, Guptas, Paramaras, and Mughals. Sites like Khajuraho, Sanchi, and Bhimbetka bear witness to its ancient cultural glory. In 2000, Chhattisgarh was carved out to improve governance in tribal areas.",
+            "touristPlaces": [
+                {
+                    "name": "Khajuraho",
+                    "image": "img/Tourists/khajuraho.jpg",
+                    "description": "Famous for its stunning erotic rock carvings and temples.",
+                    "bestTimeToVisit": "October to March",
+                    "significance": "UNESCO World Heritage Site"
+                },
+                {
+                    "name": "Sanchi Stupa",
+                    "image": "img/Tourists/sanchi.jpg",
+                    "description": "Buddhist complex with one of the oldest stone structures in India.",
+                    "bestTimeToVisit": "November to March",
+                    "significance": "Symbol of Buddhist heritage"
+                }
+            ],
+            "festivals": [
+                "Lokrang Festival",
+                "Khajuraho Dance Festival",
+                "Diwali"
+            ],
+            "majorCities": [
+                "Bhopal",
+                "Indore",
+                "Jabalpur",
+                "Gwalior",
+                "Ujjain"
+            ]
+        },
+        {
+            "id": "andhra-pradesh",
+            "name": "Andhra Pradesh",
+            "tagline": "The Rice Bowl of India",
+            "headerImage": "linear-gradient(135deg, #FDC830 0%, #F37335 100%)",
+            "mapCoordinates": {
+                "lat": 15.9129,
+                "lng": 79.7400
+            },
+            "facts": {
+                "formationDate": "1 November 1956",
+                "area": "162,975 km²",
+                "population": "49,386,799",
+                "capital": "Amaravati",
+                "languages": [
+                    "Telugu"
+                ],
+                "famousFood": "Pulihora, Andhra Chicken Curry, Gongura Pickle",
+                "stateAnimal": "Blackbuck",
+                "stateBird": "Indian Roller",
+                "stateFlower": "Jasmine",
+                "stateTree": "Neem"
+            },
+            "leadership": {
+                "governor": {
+                    "name": "S. Abdul Nazeer",
+                    "photo": "img/GN_Images/andhra_pradesh.jpg",
+                    "tenure": "February 2023"
+                },
+                "chiefMinister": {
+                    "name": "N. Chandrababu Naidu",
+                    "photo": "img/CM_Images/andhra_pradesh.jpg",
+                    "tenure": "June 2024",
+                    "party": "TDP"
+                }
+            },
+            "history": "Andhra Pradesh holds the distinction of being the first state formed on a linguistic basis in India. After years of demands for a separate Telugu-speaking state, it was carved out of the Madras Presidency on October 1, 1953, with Kurnool as the capital. The demand intensified following the death of Potti Sriramulu, who died fasting for this cause. Later, in 1956, under the States Reorganisation Act, Andhra merged with the Telangana region (which was part of Hyderabad State) to form a united Andhra Pradesh. However, after prolonged agitation, Telangana was separated in 2014, making Andhra Pradesh a reorganized state. It now plans Visakhapatnam as its executive capital.",
+            "touristPlaces": [
+                {
+                    "name": "Tirupati Temple",
+                    "description": "One of the richest and most visited religious shrines in the world.",
+                    "image": "img/Tourists/andhra_tirupati.jpg",
+                    "moreInfoLink": "https://www.tirumala.org"
+                },
+                {
+                    "name": "Araku Valley",
+                    "description": "A scenic hill station known for its coffee plantations and tribal culture.",
+                    "image": "img/Tourists/andhra_araku_valley.jpg",
+                    "moreInfoLink": "https://www.arakuvalley.org"
+                }
+            ]
+        },
+        {
+            "id": "assam",
+            "name": "Assam",
+            "tagline": "Gateway to Northeast India",
+            "headerImage": "linear-gradient(135deg, #FFB347 0%, #FFCC33 100%)",
+            "mapCoordinates": {
+                "lat": 26.2006,
+                "lng": 92.9376
+            },
+            "facts": {
+                "formationDate": "26 January 1950",
+                "area": "78,438 km²",
+                "population": "31,205,576",
+                "capital": "Dispur",
+                "languages": [
+                    "Assamese",
+                    "Bodo",
+                    "Bengali"
+                ],
+                "famousFood": "Khar, Masor Tenga, Pitha",
+                "stateAnimal": "One-Horned Rhinoceros",
+                "stateBird": "White-winged Duck",
+                "stateFlower": "Foxtail Orchid",
+                "stateTree": "Hollong"
+            },
+            "leadership": {
+                "governor": {
+                    "name": "Gulab Chand Kataria",
+                    "photo": "img/GN_Images/assam.jpg",
+                    "tenure": "February 2023"
+                },
+                "chiefMinister": {
+                    "name": "Himanta Biswa Sarma",
+                    "photo": "img/CM_Images/assam.jpg",
+                    "tenure": "May 2021",
+                    "party": "BJP"
+                }
+            },
+            "history": "Assam has a rich ancient history linked with the Kamarupa kingdom and later the Ahom dynasty, which ruled for over 600 years. It became a part of British India in 1826 through the Treaty of Yandabo after the First Anglo-Burmese War. Assam was originally a large province and was gradually reduced as Nagaland (1963), Meghalaya (1972), Mizoram (1987), and Arunachal Pradesh (1987) were carved out. Known for its tea estates, Kaziranga National Park, and ethnic diversity, Assam has also seen periods of unrest including the Assam Agitation (1979–1985).",
+            "touristPlaces": [
+                {
+                    "name": "Kaziranga National Park",
+                    "description": "A UNESCO World Heritage Site, home to the largest population of one-horned rhinoceroses.",
+                    "image": "img/Tourists/Kaziranga.jpg",
+                    "moreInfoLink": "https://www.kaziranganationalpark-india.com"
+                },
+                {
+                    "name": "Majuli",
+                    "description": "World's largest river island known for its monasteries and festivals.",
+                    "image": "img/Tourists/majuli.jpg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Majuli"
+                }
+            ]
+        },
+        {
+            "id": "arunachal-pradesh",
+            "name": "Arunachal Pradesh",
+            "tagline": "The Land of the Rising Sun",
+            "headerImage": "linear-gradient(135deg, #3CA55C 0%, #B5AC49 100%)",
+            "mapCoordinates": {
+                "lat": 28.2180,
+                "lng": 94.7278
+            },
+            "facts": {
+                "formationDate": "20 February 1987",
+                "area": "83,743 km²",
+                "population": "1,383,727",
+                "capital": "Itanagar",
+                "languages": [
+                    "English"
+                ],
+                "famousFood": "Thukpa, Apong, Bamboo Shoot Curry",
+                "stateAnimal": "Mithun",
+                "stateBird": "Great Hornbill",
+                "stateFlower": "Lady’s Slipper Orchid",
+                "stateTree": "Hollong"
+            },
+            "leadership": {
+                "governor": {
+                    "name": "Lt. Gen. K.T. Parnaik (Retd.)",
+                    "photo": "img/GN_Images/arunachal_pradesh.jpg",
+                    "tenure": "February 2023"
+                },
+                "chiefMinister": {
+                    "name": "Pema Khandu",
+                    "photo": "img/CM_Images/arunachal_pradesh.jpg",
+                    "tenure": "July 2016",
+                    "party": "BJP"
+                }
+            },
+            "history": "Known as the 'Land of the Rising Sun', Arunachal Pradesh was originally part of Assam and remained under the North-East Frontier Agency (NEFA) during British rule and early post-independence years. Due to its strategic importance, it was administered separately. It became a Union Territory in 1972 and was granted full statehood on February 20, 1987. The region has a distinct identity with over 26 tribes and 100+ sub-tribes, and has seen tensions with China, which claims parts of it.",
+            "touristPlaces": [
+                {
+                    "name": "Tawang Monastery",
+                    "description": "One of the largest Buddhist monasteries in India, located in the Tawang Valley.",
+                    "image": "img/Tourists/tawang.jpg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Tawang_Monastery"
+                },
+                {
+                    "name": "Ziro Valley",
+                    "description": "A lush green valley known for the Ziro Music Festival and Apatani tribal heritage.",
+                    "image": "img/Tourists/ziro.jpg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Ziro_valley"
+                }
+            ]
+        },
+        {
+            "id": "chhattisgarh",
+            "name": "Chhattisgarh",
+            "tagline": "Full of Surprises",
+            "headerImage": "linear-gradient(135deg, #00C9FF 0%, #92FE9D 100%)",
+            "mapCoordinates": {
+                "lat": 21.2787,
+                "lng": 81.8661
+            },
+            "facts": {
+                "formationDate": "1 November 2000",
+                "area": "135,191 km²",
+                "population": "29,436,231",
+                "capital": "Raipur",
+                "languages": [
+                    "Hindi",
+                    "Chhattisgarhi"
+                ],
+                "famousFood": "Chana Samosa, Faraa, Aamat",
+                "stateAnimal": "Wild Buffalo",
+                "stateBird": "Hill Myna",
+                "stateFlower": "Rhynchostylis (Foxtail Orchid)",
+                "stateTree": "Sal Tree"
+            },
+            "leadership": {
+                "governor": {
+                    "name": "Biswabhusan Harichandan",
+                    "photo": "img/GN_Images/Chhattisgarh.jpg",
+                    "tenure": "February 2023"
+                },
+                "chiefMinister": {
+                    "name": "Vishnu Deo Sai",
+                    "photo": "img/CM_Images/chhatisgarh.jpeg",
+                    "tenure": "December 2023",
+                    "party": "BJP"
+                }
+            },
+            "history": "Chhattisgarh was part of Madhya Pradesh until it was carved out on November 1, 2000, due to demands for better administration for its tribal-dominated regions. Rich in natural resources, forests, and minerals, it also has ancient links to the Mauryan and Gupta empires. The state has faced Naxalite insurgency issues in some regions but continues to develop its tribal and agricultural economy.",
+            "touristPlaces": [
+                {
+                    "name": "Chitrakote Falls",
+                    "description": "The widest waterfall in India, often called the 'Niagara of India'.",
+                    "image": "img/Tourists/chitrakote.jpg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Chitrakote_Falls"
+                },
+                {
+                    "name": "Barnawapara Sanctuary",
+                    "description": "A peaceful wildlife sanctuary known for leopards and antelopes.",
+                    "image": "img/Tourists/barnawapara.jpg",
+                    "moreInfoLink": "https://www.cgforest.com"
+                }
+            ]
+        },
+        {
+            "id": "gujarat",
+            "name": "Gujarat",
+            "tagline": "Jewel of Western India",
+            "headerImage": "linear-gradient(135deg, #FF5F6D 0%, #FFC371 100%)",
+            "mapCoordinates": {
+                "lat": 22.2587,
+                "lng": 71.1924
+            },
+            "facts": {
+                "formationDate": "1 May 1960",
+                "area": "196,024 km²",
+                "population": "60,439,692",
+                "capital": "Gandhinagar",
+                "languages": [
+                    "Gujarati"
+                ],
+                "famousFood": "Dhokla, Thepla, Undhiyu, Fafda",
+                "stateAnimal": "Asiatic Lion",
+                "stateBird": "Greater Flamingo",
+                "stateFlower": "Marigold",
+                "stateTree": "Banyan"
+            },
+            "leadership": {
+                "governor": {
+                    "name": "Acharya Devvrat",
+                    "photo": "img/GN_Images/gujarat.jpg",
+                    "tenure": "July 2019"
+                },
+                "chiefMinister": {
+                    "name": "Bhupendra Patel",
+                    "photo": "img/CM_Images/gujarat.jpg",
+                    "tenure": "September 2021",
+                    "party": "BJP"
+                }
+            },
+            "history": "Formed on May 1, 1960, Gujarat was carved out of the Bombay State along with Maharashtra. The region has a long and rich history, from the Indus Valley Civilization at Lothal, to the rule of Mauryas, Solankis, and Mughals. Gujarat is also the birthplace of Mahatma Gandhi. Post-independence, it has become a major hub for industry, trade, and entrepreneurship.",
+            "touristPlaces": [
+                {
+                    "name": "Statue of Unity",
+                    "description": "World’s tallest statue, dedicated to Sardar Vallabhbhai Patel.",
+                    "image": "img/Tourists/unity.jpg",
+                    "moreInfoLink": "https://statueofunity.in"
+                },
+                {
+                    "name": "Gir National Park",
+                    "description": "Only home to Asiatic Lions in the world.",
+                    "image": "img/Tourists/gir.jpg",
+                    "moreInfoLink": "https://www.girlion.in"
+                }
+            ]
+        },
+        {
+            "id": "haryana",
+            "name": "Haryana",
+            "tagline": "The Land of Milk and Ghee",
+            "headerImage": "linear-gradient(135deg, #F7971E 0%, #FFD200 100%)",
+            "mapCoordinates": {
+                "lat": 29.0588,
+                "lng": 76.0856
+            },
+            "facts": {
+                "formationDate": "1 November 1966",
+                "area": "44,212 km²",
+                "population": "25,353,081",
+                "capital": "Chandigarh",
+                "languages": [
+                    "Hindi",
+                    "Haryanvi"
+                ],
+                "famousFood": "Bajra Khichdi, Churma, Kachri ki Sabzi",
+                "stateAnimal": "Blackbuck",
+                "stateBird": "Black Francolin",
+                "stateFlower": "Lotus",
+                "stateTree": "Peepal"
+            },
+            "leadership": {
+                "governor": {
+                    "name": "Bandaru Dattatreya",
+                    "photo": "img/GN_Images/haryana.jpg",
+                    "tenure": "July 2021"
+                },
+                "chiefMinister": {
+                    "name": "Nayab Singh Saini",
+                    "photo": "img/CM_Images/haryana.jpg",
+                    "tenure": "March 2024",
+                    "party": "BJP"
+                }
+            },
+            "history": "Haryana was created on November 1, 1966, after the division of Punjab on linguistic lines. Historically, it was part of the Vedic region of Kurukshetra, the setting of the Mahabharata. In modern India, it is known for its contribution to agriculture (Green Revolution), sports, and industrial development around Gurugram and Faridabad.",
+            "touristPlaces": [
+                {
+                    "name": "Kurukshetra",
+                    "description": "Historical battlefield of the Mahabharata.",
+                    "image": "img/Tourists/kurukshetra.jpg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Kurukshetra"
+                },
+                {
+                    "name": "Sultanpur Bird Sanctuary",
+                    "description": "A birdwatcher's paradise with migratory species.",
+                    "image": "img/Tourists/Sultanpur.jpg",
+                    "moreInfoLink": "https://haryanatourism.gov.in"
+                }
+            ]
+        },
+        {
+            "id": "himachal-pradesh",
+            "name": "Himachal Pradesh",
+            "tagline": "Land of Gods",
+            "headerImage": "linear-gradient(135deg, #43C6AC 0%, #F8FFAE 100%)",
+            "mapCoordinates": {
+                "lat": 31.1048,
+                "lng": 77.1734
+            },
+            "facts": {
+                "formationDate": "25 January 1971",
+                "area": "55,673 km²",
+                "population": "7,451,955",
+                "capital": "Shimla, Dharamshala (Winter)",
+                "languages": [
+                    "Hindi"
+                ],
+                "famousFood": "Chana Madra, Siddu, Dham",
+                "stateAnimal": "Snow Leopard",
+                "stateBird": "Western Tragopan",
+                "stateFlower": "Pink Rhododendron",
+                "stateTree": "Deodar Cedar"
+            },
+            "leadership": {
+                "governor": {
+                    "name": "Shiv Pratap Shukla",
+                    "photo": "img/GN_Images/himachal_pradesh.jpg",
+                    "tenure": "February 2023"
+                },
+                "chiefMinister": {
+                    "name": "Sukhvinder Singh Sukhu",
+                    "photo": "img/CM_Images/himachal_pradesh.jpg",
+                    "tenure": "December 2022",
+                    "party": "INC"
+                }
+            },
+            "history": "Composed of many princely hill states, Himachal Pradesh became a Union Territory in 1950 and achieved full statehood on January 25, 1971. The region was once under the control of the Mughals, Sikhs, and British. Known for its natural beauty, tourism, and apple orchards, it is also referred to as “Dev Bhoomi” (Land of the Gods).",
+            "touristPlaces": [
+                {
+                    "name": "Shimla",
+                    "description": "The Queen of Hills and former British summer capital.",
+                    "image": "img/Tourists/shimla.jpg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Shimla"
+                },
+                {
+                    "name": "Manali",
+                    "description": "Popular hill station for honeymooners and trekkers.",
+                    "image": "img/Tourists/manali.jpg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Manali,_Himachal_Pradesh"
+                }
+            ]
+        },
+        {
+            "id": "jharkhand",
+            "name": "Jharkhand",
+            "tagline": "The Land of Forests",
+            "headerImage": "linear-gradient(135deg, #6190E8 0%, #A7BFE8 100%)",
+            "mapCoordinates": {
+                "lat": 23.6102,
+                "lng": 85.2799
+            },
+            "facts": {
+                "formationDate": "15 November 2000",
+                "area": "79,716 km²",
+                "population": "32,988,134",
+                "capital": "Ranchi",
+                "languages": [
+                    "Hindi",
+                    "Santali",
+                    "Bengali"
+                ],
+                "famousFood": "Litti Chokha, Dhuska, Rugra",
+                "stateAnimal": "Elephant",
+                "stateBird": "Koel",
+                "stateFlower": "Palash",
+                "stateTree": "Sal"
+            },
+            "leadership": {
+                "governor": {
+                    "name": "C. P. Radhakrishnan",
+                    "photo": "img/GN_Images/jharkhand.jpg",
+                    "tenure": "February 2023"
+                },
+                "chiefMinister": {
+                    "name": "Champai Soren",
+                    "photo": "img/CM_Images/jharkhand.jpg",
+                    "tenure": "February 2024",
+                    "party": "JMM"
+                }
+            },
+            "history": "Created on November 15, 2000, from Bihar, Jharkhand has long been home to various tribal communities and played a role in several tribal uprisings against the British. Rich in minerals like coal, iron, and mica, it contributes significantly to India's industry. Ranchi, the capital, was once the summer capital of Bihar.",
+            "touristPlaces": [
+                {
+                    "name": "Hundru Falls",
+                    "description": "One of the highest waterfalls in the state.",
+                    "image": "img/Tourists/hundru.jpg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Hundru_Falls"
+                },
+                {
+                    "name": "Netarhat",
+                    "description": "Popularly known as the 'Queen of Chotanagpur'.",
+                    "image": "img/Tourists/netarhat.jpg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Netarhat"
+                }
+            ]
+        },
+        {
+            "id": "manipur",
+            "name": "Manipur",
+            "tagline": "The Jewel of India",
+            "headerImage": "linear-gradient(135deg, #B993D6 0%, #8CA6DB 100%)",
+            "mapCoordinates": {
+                "lat": 24.6637,
+                "lng": 93.9063
+            },
+            "facts": {
+                "formationDate": "21 January 1972",
+                "area": "22,327 km²",
+                "population": "2,855,794",
+                "capital": "Imphal",
+                "languages": [
+                    "Meitei",
+                    "English"
+                ],
+                "famousFood": "Eromba, Chamthong, Morok Metpa",
+                "stateAnimal": "Sangai Deer",
+                "stateBird": "Mrs. Hume's Pheasant",
+                "stateFlower": "Shirui Lily",
+                "stateTree": "Uningthou"
+            },
+            "leadership": {
+                "governor": {
+                    "name": "Anusuiya Uikey",
+                    "photo": "img/GN_Images/manipur.jpg",
+                    "tenure": "February 2023"
+                },
+                "chiefMinister": {
+                    "name": "N. Biren Singh",
+                    "photo": "img/CM_Images/manipur.jpg",
+                    "tenure": "March 2017",
+                    "party": "BJP"
+                }
+            },
+            "history": "Manipur was an independent kingdom with its own constitution and royal family until it merged with India in 1949. It became a full-fledged state on January 21, 1972. Manipur has a rich tradition of dance (Raas Leela), martial arts, and indigenous sports. It has faced long-standing insurgency and ethnic tensions but remains a culturally vibrant part of the Northeast.",
+            "touristPlaces": [
+                {
+                    "name": "Loktak Lake",
+                    "description": "Largest freshwater lake in Northeast India, famous for floating islands (Phumdis).",
+                    "image": "img/Tourists/lotak.jpg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Loktak_Lake"
+                },
+                {
+                    "name": "Shirui Hills",
+                    "description": "Home to the rare Shirui Lily flower.",
+                    "image": "img/Tourists/shirui.jpg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Shirui_Lily"
+                }
+            ]
+        },
+        {
+            "id": "meghalaya",
+            "name": "Meghalaya",
+            "tagline": "Abode of Clouds",
+            "headerImage": "linear-gradient(135deg, #00F260 0%, #0575E6 100%)",
+            "mapCoordinates": {
+                "lat": 25.4670,
+                "lng": 91.3662
+            },
+            "facts": {
+                "formationDate": "21 January 1972",
+                "area": "22,429 km²",
+                "population": "3,211,474",
+                "capital": "Shillong",
+                "languages": [
+                    "Khasi",
+                    "Garo",
+                    "English"
+                ],
+                "famousFood": "Pumaloi, Jadoh, Dohneiiong",
+                "stateAnimal": "Clouded Leopard",
+                "stateBird": "Hill Myna",
+                "stateFlower": "Lady Slipper Orchid",
+                "stateTree": "Bamboo"
+            },
+            "leadership": {
+                "governor": {
+                    "name": "Phagu Chauhan",
+                    "photo": "img/GN_Images/Megalaya.jpg",
+                    "tenure": "February 2023"
+                },
+                "chiefMinister": {
+                    "name": "Conrad Sangma",
+                    "photo": "img/CM_Images/meghalaya.jpg",
+                    "tenure": "March 2018",
+                    "party": "NPP"
+                }
+            },
+            "history": "Carved out of Assam, Meghalaya became a full state on January 21, 1972. It was originally part of the Khasi and Jaintia Hills under British rule. Meghalaya, meaning 'Abode of Clouds,' is home to the Khasi, Garo, and Jaintia tribes, each with distinct matrilineal cultures. Known for its scenic landscapes and the world's wettest places like Mawsynram, it has been relatively peaceful compared to neighboring states.",
+            "touristPlaces": [
+                {
+                    "name": "Cherrapunji",
+                    "description": "One of the wettest places on Earth, famous for living root bridges.",
+                    "image": "img/Tourists/cherrapunji.jpg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Cherrapunji"
+                }
+            ]
+        },
+        {
+            "id": "mizoram",
+            "name": "Mizoram",
+            "tagline": "Land of the Hill People",
+            "headerImage": "linear-gradient(135deg, #FF9966 0%, #FF5E62 100%)",
+            "mapCoordinates": {
+                "lat": 23.1645,
+                "lng": 92.9376
+            },
+            "facts": {
+                "formationDate": "20 February 1987",
+                "area": "21,081 km²",
+                "population": "1,097,206",
+                "capital": "Aizawl",
+                "languages": [
+                    "Mizo",
+                    "English"
+                ],
+                "famousFood": "Bai, Vawksa Rep, Sawhchiar",
+                "stateAnimal": "Mithun",
+                "stateBird": "Sapphire Flycatcher",
+                "stateFlower": "Vanda coerulea",
+                "stateTree": "Northeastern Hill Almond"
+            },
+            "leadership": {
+                "governor": {
+                    "name": "Hari Babu Kambhampati",
+                    "photo": "img/GN_Images/mizoram.jpg",
+                    "tenure": "July 2021"
+                },
+                "chiefMinister": {
+                    "name": "Zoramthanga",
+                    "photo": "img/CM_Images/Mizoram.jpg",
+                    "tenure": "December 2018",
+                    "party": "MNDF"
+                }
+            },
+            "history": "Formerly part of Assam, Mizoram saw unrest in the 1960s after the Mizo National Front (MNF) rebelled. A peace accord in 1986 between the MNF and the Indian government led to Mizoram attaining statehood on February 20, 1987. It has strong Christian missionary influence, is among India’s most literate states, and maintains peaceful relations despite its earlier insurgency.",
+            "touristPlaces": [
+                {
+                    "name": "Aizawl",
+                    "description": "The capital, known for scenic viewpoints and vibrant markets.",
+                    "image": "img/Tourists/aizawl.jpg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Aizawl"
+                },
+                {
+                    "name": "Vantawng Falls",
+                    "description": "The highest waterfall in Mizoram, cascading through lush forests.",
+                    "image": "img/Tourists/vantawang.jpg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Vantawng_Falls"
+                }
+            ]
+        },
+        {
+            "id": "nagaland",
+            "name": "Nagaland",
+            "tagline": "Land of Festivals",
+            "headerImage": "linear-gradient(135deg, #3E5151 0%, #DECBA4 100%)",
+            "mapCoordinates": {
+                "lat": 26.1584,
+                "lng": 94.5624
+            },
+            "facts": {
+                "formationDate": "1 December 1963",
+                "area": "16,579 km²",
+                "population": "2,269,952",
+                "capital": "Kohima",
+                "languages": [
+                    "English",
+                    "Naga languages"
+                ],
+                "famousFood": "Smoked Pork with Bamboo Shoot, Bamboo Steamed Fish",
+                "stateAnimal": "Mithun",
+                "stateBird": "Blyth's Tragopan",
+                "stateFlower": "Rhododendron",
+                "stateTree": "Alder"
+            },
+            "leadership": {
+                "governor": {
+                    "name": "La. Ganesan",
+                    "photo": "img/GN_Images/nagaland.jpg",
+                    "tenure": "February 2023"
+                },
+                "chiefMinister": {
+                    "name": "Neiphiu Rio",
+                    "photo": "img/CM_Images/nagaland.jpg",
+                    "tenure": "March 2018",
+                    "party": "NDPP"
+                }
+            },
+            "history": "Nagaland was the first northeastern state to be carved out from Assam in 1963. The region was known for fierce Naga tribes, and in post-independence years, it witnessed separatist movements for sovereignty. A fragile ceasefire has held since the 1990s, with ongoing peace talks. Nagaland is culturally rich with festivals like Hornbill, and is largely Christian.",
+            "touristPlaces": [
+                {
+                    "name": "Hornbill Festival",
+                    "description": "A major cultural festival showcasing the tribal heritage of Nagaland.",
+                    "image": "img/Tourists/hornbill.jpg",
+                    "moreInfoLink": "https://www.hornbillfestival.com"
+                },
+                {
+                    "name": "Dzükou Valley",
+                    "description": "A breathtaking valley with seasonal flowers, perfect for trekking.",
+                    "image": "img/Tourists/dzukou.jpg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Dz%C3%BCkou_Valley"
+                }
+            ]
+        },
+        {
+            "id": "odisha",
+            "name": "Odisha",
+            "tagline": "Soul of Incredible India",
+            "headerImage": "linear-gradient(135deg, #56CCF2 0%, #2F80ED 100%)",
+            "mapCoordinates": {
+                "lat": 20.9517,
+                "lng": 85.0985
+            },
+            "facts": {
+                "formationDate": "1 April 1936",
+                "area": "155,707 km²",
+                "population": "41,974,218",
+                "capital": "Bhubaneswar",
+                "languages": [
+                    "Odia"
+                ],
+                "famousFood": "Dalma, Pakhala Bhata, Rasgulla",
+                "stateAnimal": "Sambar Deer",
+                "stateBird": "Indian Roller",
+                "stateFlower": "Ashoka Flower",
+                "stateTree": "Sacred Fig (Peepal)"
+            },
+            "leadership": {
+                "governor": {
+                    "name": "Raghubar Das",
+                    "photo": "img/GN_Images/odisha.jpg",
+                    "tenure": "October 2023"
+                },
+                "chiefMinister": {
+                    "name": "Mohan Charan Majhi",
+                    "photo": "img/CM_Images/odisha.jpg",
+                    "tenure": "June 2024",
+                    "party": "BJP"
+                }
+            },
+            "history": "Odisha, formerly Orissa, has ancient links to the Kalinga kingdom, which famously turned Emperor Ashoka towards Buddhism after the bloody Kalinga War (261 BCE). It became a separate province in 1936, making it the first state created on linguistic basis for Odia speakers. Renamed Odisha in 2011, the state is known for Jagannath Puri, Konark Sun Temple, and tribal communities.",
+            "touristPlaces": [
+                {
+                    "name": "Konark Sun Temple",
+                    "description": "A UNESCO World Heritage Site famous for its intricate architecture and historical significance.",
+                    "image": "img/Tourists/konark.jpg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Konark_Sun_Temple"
+                },
+                {
+                    "name": "Chilika Lake",
+                    "description": "Asia's largest brackish water lagoon, home to migratory birds and dolphins.",
+                    "image": "img/Tourists/chilika.jpg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Chilika_Lake"
+                }
+            ]
+        },
+        {
+            "id": "punjab",
+            "name": "Punjab",
+            "tagline": "The Land of Five Rivers",
+            "headerImage": "linear-gradient(135deg, #FBD3E9 0%, #BB377D 100%)",
+            "mapCoordinates": {
+                "lat": 31.1471,
+                "lng": 75.3412
+            },
+            "facts": {
+                "formationDate": "1 November 1966",
+                "area": "50,362 km²",
+                "population": "27,743,338",
+                "capital": "Chandigarh",
+                "languages": [
+                    "Punjabi"
+                ],
+                "famousFood": "Makki di Roti, Sarson da Saag, Butter Chicken",
+                "stateAnimal": "Blackbuck",
+                "stateBird": "Northern Goshawk",
+                "stateFlower": "Gladiolus",
+                "stateTree": "Shisham"
+            },
+            "leadership": {
+                "governor": {
+                    "name": "Banwarilal Purohit",
+                    "photo": "img/GN_Images/punjab.jpg",
+                    "tenure": "August 2021"
+                },
+                "chiefMinister": {
+                    "name": "Bhagwant Mann",
+                    "photo": "img/CM_Images/punjab.png",
+                    "tenure": "March 2022",
+                    "party": "AAP"
+                }
+            },
+            "history": "Punjab has a rich ancient and medieval history, being the land of the Indus Valley Civilization, Vedic culture, and later the Sikh Gurus. It was partitioned in 1947, leading to massive migration and trauma. In 1966, it was reorganized on linguistic lines, with Haryana and Himachal Pradesh carved out. Punjab is today a Sikh-majority state, known for agriculture, bhangra music, and military contributions.",
+            "touristPlaces": [
+                {
+                    "name": "Golden Temple",
+                    "description": "A sacred Sikh shrine in Amritsar known for its golden structure and spiritual significance.",
+                    "image": "img/Tourists/golden.jpg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Golden_Temple"
+                },
+                {
+                    "name": "Wagah Border",
+                    "description": "Famous for the daily military ceremony between India and Pakistan.",
+                    "image": "img/Tourists/wagh.jpg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Wagah_border_ceremony"
+                }
+            ]
+        },
+        {
+            "id": "sikkim",
+            "name": "Sikkim",
+            "tagline": "Land of Mystic Splendor",
+            "headerImage": "linear-gradient(135deg, #B24592 0%, #F15F79 100%)",
+            "mapCoordinates": {
+                "lat": 27.5330,
+                "lng": 88.5122
+            },
+            "facts": {
+                "formationDate": "16 May 1975",
+                "area": "7,096 km²",
+                "population": "610,577",
+                "capital": "Gangtok",
+                "languages": [
+                    "Nepali",
+                    "Lepcha",
+                    "Bhutia",
+                    "English"
+                ],
+                "famousFood": "Momos, Thukpa, Phagshapa",
+                "stateAnimal": "Red Panda",
+                "stateBird": "Blood Pheasant",
+                "stateFlower": "Nobile Orchid",
+                "stateTree": "Rhododendron"
+            },
+            "leadership": {
+                "governor": {
+                    "name": "Lakshman Acharya",
+                    "photo": "img/GN_Images/sikkim.jpg",
+                    "tenure": "February 2023"
+                },
+                "chiefMinister": {
+                    "name": "Prem Singh Tamang",
+                    "photo": "img/CM_Images/sikkim.jpg",
+                    "tenure": "May 2019",
+                    "party": "Sikkim Krantikari Morcha"
+                }
+            },
+            "history": "Sikkim was an independent Buddhist kingdom ruled by the Chogyal dynasty. In 1947, it became a protectorate of India, retaining autonomy. Following political unrest and a referendum in 1975, Sikkim voted to join India and became the 22nd state. It is India's second smallest state and is known for Mount Kanchenjunga, monasteries, and its peaceful integration into the Indian Union. It retains its distinct Tibeto-Buddhist culture.",
+            "touristPlaces": [
+                {
+                    "name": "Tsomgo Lake",
+                    "description": "A high-altitude lake known for its stunning reflection and changing colors.",
+                    "image": "img/Tourists/tsomgo.jpg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Tsomgo_Lake"
+                },
+                {
+                    "name": "Rumtek Monastery",
+                    "description": "One of the largest Buddhist monasteries in Sikkim.",
+                    "image": "img/Tourists/rumtek.jpg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Rumtek_Monastery"
+                }
+            ]
+        },
+        {
+            "id": "telangana",
+            "name": "Telangana",
+            "tagline": "India’s Youngest State",
+            "headerImage": "linear-gradient(135deg, #7F00FF 0%, #E100FF 100%)",
+            "mapCoordinates": {
+                "lat": 18.1124,
+                "lng": 79.0193
+            },
+            "facts": {
+                "formationDate": "2 June 2014",
+                "area": "112,077 km²",
+                "population": "35,193,978",
+                "capital": "Hyderabad",
+                "languages": [
+                    "Telugu",
+                    "Urdu"
+                ],
+                "famousFood": "Hyderabadi Biryani, Haleem, Sarva Pindi",
+                "stateAnimal": "Spotted Deer",
+                "stateBird": "Indian Roller",
+                "stateFlower": "Tangedu (Tanner’s Cassia)",
+                "stateTree": "Jammi Tree"
+            },
+            "leadership": {
+                "governor": {
+                    "name": "C. P. Radhakrishnan",
+                    "photo": "img/GN_Images/telangana.jpg",
+                    "tenure": "February 2023"
+                },
+                "chiefMinister": {
+                    "name": "A. Revanth Reddy",
+                    "photo": "img/CM_Images/telengana.png",
+                    "tenure": "December 2023",
+                    "party": "INC"
+                }
+            },
+            "history": "Telangana was part of the Hyderabad State under the Nizam before merging with India in 1948. It was joined with Andhra State in 1956 to form Andhra Pradesh. However, due to perceived neglect, a long movement for separate statehood was led by various student and political groups. After decades of protests, Telangana was officially formed on June 2, 2014, as India’s 29th state (later 28th after J&K split). Hyderabad is its capital and also serves Andhra for 10 years as part of the bifurcation agreement.",
+            "touristPlaces": [
+                {
+                    "name": "Charminar",
+                    "description": "Iconic monument in Hyderabad, built in 1591.",
+                    "image": "img/Tourists/Charminar.jpg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Charminar"
+                },
+                {
+                    "name": "Golconda Fort",
+                    "description": "A grand fortress known for its architecture and acoustics.",
+                    "image": "img/Tourists/golcon.jpg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Golkonda"
+                }
+            ]
+        },
+        {
+            "id": "tripura",
+            "name": "Tripura",
+            "tagline": "Where Culture Meets Nature",
+            "headerImage": "linear-gradient(135deg, #F85032 0%, #E73827 100%)",
+            "mapCoordinates": {
+                "lat": 23.9408,
+                "lng": 91.9882
+            },
+            "facts": {
+                "formationDate": "21 January 1972",
+                "area": "10,492 km²",
+                "population": "3,671,032",
+                "capital": "Agartala",
+                "languages": [
+                    "Bengali",
+                    "Kokborok",
+                    "English"
+                ],
+                "famousFood": "Mui Borok, Gudok, Mosdeng Serma",
+                "stateAnimal": "Phayre’s Langur",
+                "stateBird": "Green Imperial Pigeon",
+                "stateFlower": "Nageshwar",
+                "stateTree": "Agar"
+            },
+            "leadership": {
+                "governor": {
+                    "name": "Indrasena Reddy",
+                    "photo": "img/GN_Images/Tripura.jpg",
+                    "tenure": "October 2023"
+                },
+                "chiefMinister": {
+                    "name": "Manik Saha",
+                    "photo": "img/CM_Images/tripura.jpg",
+                    "tenure": "May 2022",
+                    "party": "BJP"
+                }
+            },
+            "history": "Tripura was one of the princely states that acceded to India in 1949. It became a Union Territory and achieved full statehood on January 21, 1972. The region has a mix of tribal and Bengali cultures, and saw insurgency issues post-Partition due to large-scale migration. It is now largely peaceful, with significant contributions in handicrafts, bamboo art, and political awareness.",
+            "touristPlaces": [
+                {
+                    "name": "Neermahal",
+                    "description": "A water palace in the middle of Rudrasagar Lake, blending Hindu and Mughal architecture.",
+                    "image": "img/Tourists/neermahal.jpg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Neermahal"
+                },
+                {
+                    "name": "Unakoti",
+                    "description": "Rock-cut sculptures and carvings dating back to 7th–9th century.",
+                    "image": "img/Tourists/unakoti.jpg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Unakoti"
+                }
+            ]
+        },
+        {
+            "id": "uttarakhand",
+            "name": "Uttarakhand",
+            "tagline": "Dev Bhoomi (Land of the Gods)",
+            "headerImage": "linear-gradient(135deg, #00C3FF 0%, #FFFF1C 100%)",
+            "mapCoordinates": {
+                "lat": 30.0668,
+                "lng": 79.0193
+            },
+            "facts": {
+                "formationDate": "9 November 2000",
+                "area": "53,483 km²",
+                "population": "11,090,485",
+                "capital": "Dehradun (Winter), Gairsain (Summer)",
+                "languages": [
+                    "Hindi",
+                    "Garhwali",
+                    "Kumaoni"
+                ],
+                "famousFood": "Aloo Ke Gutke, Kafuli, Bal Mithai",
+                "stateAnimal": "Musk Deer",
+                "stateBird": "Himalayan Monal",
+                "stateFlower": "Brahma Kamal",
+                "stateTree": "Buransh (Rhododendron)"
+            },
+            "leadership": {
+                "governor": {
+                    "name": "Gurmit Singh",
+                    "photo": "img/GN_Images/uttarakhand.jpeg",
+                    "tenure": "September 2021"
+                },
+                "chiefMinister": {
+                    "name": "Pushkar Singh Dhami",
+                    "photo": "img/CM_Images/uttarakhand.jpg",
+                    "tenure": "July 2021",
+                    "party": "BJP"
+                }
+            },
+            "history": "Formed on November 9, 2000, from the hill districts of Uttar Pradesh, it was initially named Uttaranchal, later changed to Uttarakhand in 2007. Known as the 'Dev Bhoomi' (Land of the Gods), it is home to sacred Hindu sites like Kedarnath, Badrinath, Haridwar, and Gangotri. It has a rich tradition of folk culture and Pahari heritage. Natural disasters like the 2013 floods deeply impacted the state, yet it continues to grow in eco-tourism and hydropower.",
+            "touristPlaces": [
+                {
+                    "name": "Valley of Flowers",
+                    "description": "A UNESCO World Heritage Site famous for endemic flora and alpine meadows.",
+                    "image": "img/Tourists/flowers.jpg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Valley_of_Flowers_National_Park"
+                },
+                {
+                    "name": "Haridwar",
+                    "description": "A sacred city on the banks of the Ganges known for Ganga Aarti.",
+                    "image": "img/Tourists/haridwar.jpg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Haridwar"
+                }
+            ]
+        },
+        {
+            "id": "goa",
+            "name": "Goa",
+            "tagline": "Pearl of the Orient",
+            "headerImage": "linear-gradient(135deg, #4CA1AF 0%, #C4E0E5 100%)",
+            "mapCoordinates": {
+                "lat": 15.2993,
+                "lng": 74.1240
+            },
+            "facts": {
+                "formationDate": "30 May 1987",
+                "area": "3,702 km²",
+                "population": "1,458,545",
+                "capital": "Panaji",
+                "languages": [
+                    "Konkani",
+                    "English",
+                    "Marathi",
+                    "Hindi"
+                ],
+                "famousFood": "Fish Curry Rice, Pork Vindaloo, Bebinca, Feni",
+                "stateAnimal": "Gaur",
+                "stateBird": "Ruby-throated Yellow Bulbul",
+                "stateFlower": "Jasmine",
+                "stateTree": "Matti"
+            },
+            "leadership": {
+                "governor": {
+                    "name": "P. S. Sreedharan Pillai",
+                    "photo": "img/GN_Images/goa.jpeg",
+                    "tenure": "July 2021",
+                    "designation": "Governor"
+                },
+                "chiefMinister": {
+                    "name": "Pramod Sawant",
+                    "photo": "img/CM_Images/goa.jpg",
+                    "tenure": "March 2019",
+                    "party": "BJP"
+                }
+            },
+            "history": "Goa, located on the western coast of India, has a rich and unique history influenced by centuries of foreign rule. Originally part of the Mauryan Empire in the 3rd century BCE, Goa later came under the rule of the Kadambas, Chalukyas, and Yadavas. In 1510, the Portuguese, led by Afonso de Albuquerque, captured Goa from the Sultan of Bijapur and established it as the capital of Portuguese India. For over 450 years, Goa remained a Portuguese colony, making it the longest-held European colony in India. This colonial legacy deeply influenced Goa's architecture, religion (predominantly Catholicism), language, and culture. After India's independence in 1947, Portugal refused to hand over Goa. In response, India launched Operation Vijay on December 18, 1961, and liberated Goa, along with Daman and Diu, on December 19, 1961. Initially made a Union Territory, Goa was later granted statehood on May 30, 1987, becoming India’s 25th state. Today, Goa is known for its beautiful beaches, world heritage churches, vibrant festivals, and a unique blend of Indian and Portuguese cultures.",
+            "touristPlaces": [
+                {
+                    "name": "Calangute Beach",
+                    "image": "img/Tourists/Calangute.jpeg",
+                    "description": "Queen of Beaches with water sports and vibrant nightlife.",
+                    "bestTimeToVisit": "November to February"
+                },
+                {
+                    "name": "Basilica of Bom Jesus",
+                    "image": "img/Tourists/Basilica.jpg",
+                    "description": "UNESCO site housing St. Francis Xavier's relics.",
+                    "bestTimeToVisit": "October to March"
+                },
+                {
+                    "name": "Dudhsagar Falls",
+                    "image": "img/Tourists/Dudhsagar.jpg",
+                    "description": "Four-tiered waterfall resembling a sea of milk.",
+                    "bestTimeToVisit": "June to September"
+                }
+            ],
+            "festivals": [
+                "Carnival",
+                "Feast of St. Francis Xavier",
+                "Shigmotsav",
+                "Bonderam Festival"
+            ],
+            "majorCities": [
+                "Panaji",
+                "Vasco da Gama",
+                "Margao",
+                "Mapusa",
+                "Ponda"
+            ]
+        },
+        {
+            "id": "west-bengal",
+            "name": "West Bengal",
+            "tagline": "Beautiful Bengal",
+            "headerImage": "linear-gradient(135deg, #DA4453 0%, #89216B 100%)",
+            "mapCoordinates": {
+                "lat": 22.9868,
+                "lng": 87.8550
+            },
+            "facts": {
+                "formationDate": "26 January 1950",
+                "area": "88,752 km²",
+                "population": "91,347,736",
+                "capital": "Kolkata",
+                "languages": [
+                    "Bengali",
+                    "Hindi",
+                    "English"
+                ],
+                "famousFood": "Macher Jhol, Shorshe Ilish, Rasgulla, Sandesh",
+                "stateAnimal": "Fishing Cat",
+                "stateBird": "White-throated Kingfisher",
+                "stateFlower": "Night-flowering Jasmine",
+                "stateTree": "Mango Tree"
+            },
+            "leadership": {
+                "governor": {
+                    "name": "C. V. Ananda Bose",
+                    "photo": "img/GN_Images/West_Bengal.jpg",
+                    "tenure": "November 2022"
+                },
+                "chiefMinister": {
+                    "name": "Mamata Banerjee",
+                    "photo": "img/CM_Images/west_bengal.jpg",
+                    "tenure": "May 2011",
+                    "party": "TMC"
+                }
+            },
+            "history": "Once the center of British India, Bengal was partitioned during independence in 1947, leading to the formation of East Pakistan (now Bangladesh) and West Bengal as part of India. Historically, it was the home of Bengal Renaissance, and the base for reformers and revolutionaries like Raja Ram Mohan Roy, Subhas Chandra Bose, and Rabindranath Tagore. West Bengal was earlier united with Odisha and Bihar but became a separate state post-independence. Kolkata, its capital, remains a hub of literature, art, and politics.",
+            "touristPlaces": [
+                {
+                    "name": "Victoria Memorial",
+                    "description": "A grand white marble museum built in memory of Queen Victoria.",
+                    "image": "img/Tourists/victoria.jpg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Victoria_Memorial,_Kolkata"
+                },
+                {
+                    "name": "Sundarbans",
+                    "description": "World’s largest mangrove forest and habitat of the Royal Bengal Tiger.",
+                    "image": "img/Tourists/sundarbans.jpg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Sundarbans"
+                }
+            ]
+        }
+    ]
+}

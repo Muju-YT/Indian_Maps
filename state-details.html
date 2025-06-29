@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>State Details | Incredible India</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="state-details.css">
+</head>
+
+<body>
+    <!-- Navigation would go here -->
+
+    <div class="state-header" id="stateHeader">
+        <h1 id="stateName">State Name</h1>
+        <p class="tagline" id="stateTagline">State tagline or brief description</p>
+    </div>
+
+    <div class="state-content">
+        <!-- Map Section -->
+        <div class="info-section">
+            <h2 class="section-title"><i class="fas fa-map-marked-alt"></i> State Map</h2>
+            <div class="map-container" id="stateMap"></div>
+        </div>
+
+        <!-- Key Facts -->
+        <div class="info-section">
+            <h2 class="section-title"><i class="fas fa-info-circle"></i> Key Facts</h2>
+            <div class="fact-boxes" id="stateFacts"></div>
+        </div>
+
+        <!-- Leadership -->
+        <div class="info-section">
+            <h2 class="section-title"><i class="fas fa-user-tie"></i> Leadership</h2>
+            <div class="grid-2col">
+                <div class="leader-card" id="governorCard">
+                    <img src="https://via.placeholder.com/150" alt="Governor" class="leader-photo" id="governorPhoto">
+                    <div class="leader-info">
+                        <h3 id="governorName">Governor Name</h3>
+                        <p>Governor</p>
+                        <p id="governorTenure">Since: January 2020</p>
+                    </div>
+                </div>
+
+                <div class="leader-card" id="cmCard">
+                    <img src="https://via.placeholder.com/150" alt="Chief Minister" class="leader-photo" id="cmPhoto">
+                    <div class="leader-info">
+                        <h3 id="cmName">Chief Minister Name</h3>
+                        <p>Chief Minister</p>
+                        <p id="cmTenure">Since: January 2020</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- History -->
+        <div class="info-section">
+            <h2 class="section-title"><i class="fas fa-landmark"></i> History & Culture</h2>
+            <div class="history-content" id="stateHistory"></div>
+        </div>
+
+        <!-- Tourist Places -->
+        <div class="info-section">
+            <h2 class="section-title"><i class="fas fa-camera"></i> Tourist Attractions</h2>
+            <div class="tourist-places" id="touristPlaces"></div>
+        </div>
+    </div>
+
+    
+
+    <script src="script.js"></script>
+</body>
+
+</html>

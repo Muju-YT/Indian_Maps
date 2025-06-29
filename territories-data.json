@@ -1,0 +1,523 @@
+{
+  "territories": [
+    {
+      "id": "andaman-nicobar",
+      "name": "Andaman & Nicobar Islands",
+      "tagline": "Emerald Islands of India",
+      "headerImage": "linear-gradient(135deg, #43CEA2 0%, #185A9D 100%)",
+      "mapCoordinates": {
+        "lat": 11.7401,
+        "lng": 92.6586
+      },
+      "facts": {
+        "formationDate": "1 November 1956",
+        "area": "8,249 km²",
+        "population": "380,500",
+        "capital": "Port Blair",
+        "languages": [
+          "Hindi",
+          "English",
+          "Bengali",
+          "Tamil"
+        ],
+        "famousFood": "Seafood, Coconut-based dishes",
+        "territoryAnimal": "Dugong",
+        "territoryBird": "Andaman Wood Pigeon",
+        "territoryFlower": "Andaman Pyinma",
+        "territoryTree": "Andaman Padauk"
+      },
+      "leadership": {
+        "administrator": {
+          "name": "Admiral D. K. Joshi",
+          "photo": "img/administrator/andaman_nicobar.jpeg",
+          "tenure": "October 2017",
+          "designation": "Lieutenant Governor"
+        }
+      },
+      "history": "The Andaman and Nicobar Islands are a group of 572 islands located in the Bay of Bengal. These islands were historically used as penal settlements by the British, the most infamous being Cellular Jail (Kala Pani) in Port Blair. During World War II, the islands were occupied by the Japanese and were briefly administered by Netaji Subhas Chandra Bose in 1943 under the Azad Hind Government. After independence, the islands became a Union Territory in 1956. Today, they are a strategic military location and a hub for eco-tourism and marine biodiversity.",
+      "touristPlaces": [
+        {
+          "name": "Radhanagar Beach",
+          "image": "img/Tourists/radhanagar.jpeg",
+          "description": "Voted as Asia's best beach with white sands and turquoise waters",
+          "bestTimeToVisit": "November to April",
+          "significance": "Ranked #7 in world's best beaches by Time Magazine"
+        },
+        {
+          "name": "Cellular Jail",
+          "image": "img/Tourists/cellular.jpeg",
+          "description": "Historic colonial prison used by British to exile freedom fighters",
+          "bestTimeToVisit": "October to March",
+          "significance": "National Memorial Monument"
+        }
+      ],
+      "festivals": [
+        "Island Tourism Festival",
+        "Monsoon Festival"
+      ],
+      "majorIslands": [
+        "Havelock",
+        "Neil",
+        "Ross",
+        "Baratang"
+      ]
+    },
+    {
+      "id": "delhi",
+      "name": "Delhi",
+      "tagline": "City of Cities",
+      "headerImage": "linear-gradient(135deg, #ED213A 0%, #93291E 100%)",
+      "mapCoordinates": {
+        "lat": 28.7041,
+        "lng": 77.1025
+      },
+      "facts": {
+        "formationDate": "1956",
+        "area": "1,484 km²",
+        "population": "16,787,941",
+        "capital": "New Delhi",
+        "languages": [
+          "Hindi",
+          "English",
+          "Punjabi",
+          "Urdu"
+        ],
+        "famousFood": "Chole Bhature, Butter Chicken, Paranthas",
+        "territoryAnimal": "Nilgai",
+        "territoryBird": "House Sparrow",
+        "territoryFlower": "Alfalfa",
+        "territoryTree": "Peepal"
+      },
+      "leadership": {
+        "administrator": {
+          "name": "Vinai Kumar Saxena",
+          "photo": "img/administrator/delhi.jpg",
+          "tenure": "May 2022",
+          "designation": "Lieutenant Governor"
+        },
+        "chiefMinister": {
+          "name": "Arvind Kejriwal",
+          "photo": "img/CM_Images/delhi.jpg",
+          "tenure": "February 2015",
+          "party": "AAP"
+        }
+      },
+      "history": "Delhi has been a historical capital of India across centuries, ruled by Mauryas, Mughals, Delhi Sultanate, and British. It became the capital of British India in 1911, replacing Calcutta. After independence, it was a Union Territory and later given partial statehood under the 69th Constitutional Amendment Act in 1991, making it the National Capital Territory (NCT). Delhi has its own elected government, but key areas like law and order remain under central control. It houses the President, Prime Minister, Parliament, and Supreme Court.",
+      "touristPlaces": [
+        {
+          "name": "Red Fort",
+          "image": "img/Tourists/red_fort.jpeg",
+          "description": "17th-century Mughal fort and UNESCO World Heritage Site",
+          "bestTimeToVisit": "October to March",
+          "significance": "Prime Minister addresses nation from here on Independence Day"
+        },
+        {
+          "name": "Qutub Minar",
+          "image": "img/Tourists/qutub.jpeg",
+          "description": "73m tall victory tower built in 1193",
+          "bestTimeToVisit": "October to March",
+          "significance": "UNESCO World Heritage Site"
+        }
+      ],
+      "festivals": [
+        "Republic Day Parade",
+        "Qutub Festival",
+        "Phoolwalon Ki Sair"
+      ],
+      "districts": [
+        "New Delhi",
+        "Central Delhi",
+        "East Delhi",
+        "South Delhi"
+      ]
+    },
+    {
+      "id": "puducherry",
+      "name": "Puducherry",
+      "tagline": "The French Riviera of the East",
+      "headerImage": "linear-gradient(135deg, #FFDEE9 0%, #B5FFFC 100%)",
+      "mapCoordinates": {
+        "lat": 11.9416,
+        "lng": 79.8083
+      },
+      "facts": {
+        "formationDate": "1 November 1954",
+        "area": "492 km²",
+        "population": "1,247,953",
+        "capital": "Puducherry",
+        "languages": [
+          "Tamil",
+          "French",
+          "English",
+          "Telugu",
+          "Malayalam"
+        ],
+        "famousFood": "French cuisine, Creole dishes, Filter Coffee",
+        "territoryAnimal": "Squirrel",
+        "territoryBird": "Koel",
+        "territoryFlower": "Cannonball flower",
+        "territoryTree": "Bael Fruit Tree"
+      },
+      "leadership": {
+        "administrator": {
+          "name": "Dr. Tamilisai Soundararajan",
+          "photo": "img/administrator/puduchery.jpg",
+          "tenure": "February 2021",
+          "designation": "Lieutenant Governor"
+        },
+        "chiefMinister": {
+          "name": "N. Rangaswamy",
+          "photo": "img/CM_Images/puduchery.jpg",
+          "tenure": "May 2021",
+          "party": "AINRC"
+        }
+      },
+      "history": "Puducherry was a French colony until 1954, when it was de facto transferred to India (de jure in 1962). It consists of four unconnected districts: Puducherry, Karaikal (Tamil Nadu), Mahe (Kerala), and Yanam (Andhra Pradesh). Puducherry retains a strong French cultural influence, seen in its architecture, food, and street names. It is a Union Territory with a legislature, one of only three in India (along with Delhi and Jammu & Kashmir).",
+      "touristPlaces": [
+        {
+          "name": "Promenade Beach",
+          "image": "img/Tourists/promenade.jpeg",
+          "description": "1.5km long beachfront with colonial architecture",
+          "bestTimeToVisit": "October to March",
+          "significance": "Iconic seaside boulevard"
+        },
+        {
+          "name": "Auroville",
+          "image": "img/Tourists/auroville.jpeg",
+          "description": "Experimental township focused on human unity",
+          "bestTimeToVisit": "November to February",
+          "significance": "International community founded in 1968"
+        }
+      ],
+      "festivals": [
+        "Bastille Day",
+        "Masimagam",
+        "Pongal"
+      ],
+      "regions": [
+        "Puducherry",
+        "Karaikal",
+        "Mahe",
+        "Yanam"
+      ]
+    },
+    {
+      "id": "chandigarh",
+      "name": "Chandigarh",
+      "tagline": "The City Beautiful",
+      "headerImage": "linear-gradient(135deg, #FDC830 0%, #F37335 100%)",
+      "mapCoordinates": {
+        "lat": 30.7333,
+        "lng": 76.7794
+      },
+      "facts": {
+        "formationDate": "1 November 1966",
+        "area": "114 km²",
+        "population": "1,055,450",
+        "capital": "Chandigarh",
+        "languages": [
+          "Hindi",
+          "English",
+          "Punjabi"
+        ],
+        "famousFood": "Butter Chicken, Chole Bhature, Amritsari Kulcha",
+        "territoryAnimal": "Indian Grey Mongoose",
+        "territoryBird": "Indian Grey Hornbill",
+        "territoryFlower": "Dhak (Flame of the Forest)",
+        "territoryTree": "Mango Tree"
+      },
+      "leadership": {
+        "administrator": {
+          "name": "Banwarilal Purohit",
+          "photo": "img/administrator/chandigarh.jpg",
+          "tenure": "August 2021",
+          "designation": "Administrator"
+        }
+      },
+      "history": "Chandigarh was created as a planned city after Partition in 1947, when Lahore became part of Pakistan. It was designed by French architect Le Corbusier and serves as a model of urban planning and architecture. It became a Union Territory in 1966, after Punjab was bifurcated into Punjab and Haryana. Interestingly, Chandigarh functions as the capital of both Punjab and Haryana, but is not part of either state. It is known for its greenery, cleanliness, and modern infrastructure.",
+      "touristPlaces": [
+        {
+          "name": "Rock Garden",
+          "image": "img/Tourists/rock.jpeg",
+          "description": "40-acre sculpture garden made from industrial waste",
+          "bestTimeToVisit": "September to March",
+          "significance": "Created by Nek Chand from recycled materials"
+        },
+        {
+          "name": "Sukhna Lake",
+          "image": "img/Tourists/sukhna.jpeg",
+          "description": "Man-made reservoir with boating facilities",
+          "bestTimeToVisit": "October to March",
+          "significance": "Popular morning walk spot"
+        }
+      ],
+      "festivals": [
+        "Chandigarh Carnival",
+        "Rose Festival",
+        "Teej"
+      ],
+      "sectors": [
+        "Sector 17 (Commercial Hub)",
+        "Sector 22 (Market Area)",
+        "Sector 35 (Food Street)"
+      ]
+    },
+    {
+      "id": "ladakh",
+      "name": "Ladakh",
+      "tagline": "Land of High Passes",
+      "headerImage": "linear-gradient(135deg, #FFEFBA 0%, #FFFFFF 100%)",
+      "mapCoordinates": {
+        "lat": 34.1526,
+        "lng": 77.5771
+      },
+      "facts": {
+        "formationDate": "31 October 2019",
+        "area": "59,146 km²",
+        "population": "274,289",
+        "capital": "Leh",
+        "languages": [
+          "Ladakhi",
+          "Hindi",
+          "English"
+        ],
+        "famousFood": "Thukpa, Momos, Butter Tea",
+        "territoryAnimal": "Snow Leopard",
+        "territoryBird": "Black-necked Crane",
+        "territoryFlower": "Sea Buckthorn",
+        "territoryTree": "Juniper"
+      },
+      "leadership": {
+        "administrator": {
+          "name": "B. D. Mishra",
+          "photo": "img/administrator/ladakh.jpeg",
+          "tenure": "February 2023",
+          "designation": "Lieutenant Governor"
+        }
+      },
+      "history": "Ladakh was part of the state of Jammu and Kashmir until 2019, when it was carved out as a separate Union Territory. It includes the districts of Leh and Kargil and is known for its Buddhist heritage, high-altitude deserts, and strategic military significance due to its borders with China (LAC) and Pakistan (LoC). Though it lacks a legislature, it has Autonomous Hill Development Councils in both districts to ensure regional representation and development.",
+      "touristPlaces": [
+        {
+          "name": "Pangong Lake",
+          "image": "img/Tourists/pangong.jpeg",
+          "description": "High-altitude lake that changes colors",
+          "bestTimeToVisit": "May to September",
+          "significance": "Featured in movie '3 Idiots'"
+        },
+        {
+          "name": "Nubra Valley",
+          "image": "img/Tourists/nubra.jpeg",
+          "description": "High altitude cold desert with double-humped camels",
+          "bestTimeToVisit": "June to September",
+          "significance": "Gateway to Siachen Glacier"
+        }
+      ],
+      "festivals": [
+        "Hemis Festival",
+        "Losar Festival",
+        "Sindhu Darshan"
+      ],
+      "districts": [
+        "Leh",
+        "Kargil"
+      ]
+    },
+    {
+      "id": "daman-diu",
+      "name": "Dadra & Nagar Haveli and Daman & Diu",
+      "tagline": "Twin Territories of Sun, Sea and Sand",
+      "headerImage": "linear-gradient(135deg, #8E2DE2 0%, #4A00E0 100%)",
+      "mapCoordinates": {
+        "lat": 20.1809,
+        "lng": 73.0169
+      },
+      "facts": {
+        "formationDate": "26 January 2020 (merged)",
+        "area": "603 km²",
+        "population": "585,764",
+        "capital": "Daman",
+        "languages": [
+          "Gujarati",
+          "Hindi",
+          "English",
+          "Portuguese-based creole"
+        ],
+        "famousFood": "Seafood Curry, Pork Vindaloo, Bebinca (Goan dessert)",
+        "territoryAnimal": "Indian Flying Fox",
+        "territoryBird": "Black Drongo",
+        "territoryFlower": "Wild Ane",
+        "territoryTree": "Kalam"
+      },
+      "leadership": {
+        "administrator": {
+          "name": "Praful Patel",
+          "photo": "img/administrator/dadra.jpg",
+          "tenure": "January 2021",
+          "designation": "Administrator"
+        }
+      },
+      "history": "Dadra and Nagar Haveli and Daman and Diu is a Union Territory formed by merging two former Portuguese territories—Dadra and Nagar Haveli, which was liberated by Indian nationalists in 1954, and Daman and Diu, which was annexed by India in 1961 during Operation Vijay, along with Goa. These regions, despite their geographical separation and distinct cultural influences, were merged on January 26, 2020, to improve administrative efficiency. The Union Territory retains a strong Portuguese colonial legacy, visible in its architecture, churches, language influence, and traditional festivals.",
+      "touristPlaces": [
+        {
+          "name": "Diu Fort",
+          "image": "img/Tourists/Diu.jpg",
+          "description": "16th-century Portuguese fort with sea views and cannons.",
+          "bestTimeToVisit": "October to March"
+        },
+        {
+          "name": "Silvassa",
+          "image": "img/Tourists/silvassa.jpeg",
+          "description": "Capital of Dadra & Nagar Haveli with tribal museums and waterfalls.",
+          "bestTimeToVisit": "November to February"
+        },
+        {
+          "name": "Jampore Beach, Daman",
+          "image": "img/Tourists/jampore.jpeg",
+          "description": "Pristine beach with black sand and Portuguese-era churches nearby.",
+          "bestTimeToVisit": "October to May"
+        }
+      ],
+      "festivals": [
+        "Narali Purnima (Coconut Festival)",
+        "Tarfest (Diu)",
+        "Ambedkar Jayanti"
+      ],
+      "majorCities": [
+        "Daman",
+        "Diu",
+        "Silvassa",
+        "Dabhel"
+      ]
+    },
+    {
+      "id": "lakshadweep",
+      "name": "Lakshadweep",
+      "tagline": "Coral Paradise of India",
+      "headerImage": "linear-gradient(135deg, #2BC0E4 0%, #EAECC6 100%)",
+      "mapCoordinates": {
+        "lat": 10.5667,
+        "lng": 72.6417
+      },
+      "facts": {
+        "formationDate": "1 November 1956",
+        "area": "32 km²",
+        "population": "64,473",
+        "capital": "Kavaratti",
+        "languages": [
+          "Malayalam",
+          "English",
+          "Jeseri (local dialect)"
+        ],
+        "famousFood": "Mus Kavaab (Tuna Fish Curry), Octopus Fry, Coconut Rice",
+        "territoryAnimal": "Butterfly Fish",
+        "territoryBird": "Sooty Tern",
+        "territoryFlower": "Neelakurinji",
+        "territoryTree": "Bread Fruit Tree"
+      },
+      "leadership": {
+        "administrator": {
+          "name": "Praful Khoda Patel",
+          "photo": "img/administrator/lakshwadeep.jpeg",
+          "tenure": "December 2020",
+          "designation": "Administrator"
+        }
+      },
+      "history": "Lakshadweep is India’s smallest Union Territory, consisting of 36 coral islands in the Arabian Sea. The name means “a hundred thousand islands.” These islands were historically influenced by Arab traders, and Islam spread early here. It became a Union Territory in 1956. The islands are known for their pristine ecology, lagoons, and marine life, and efforts are ongoing to develop them as a sustainable eco-tourism zone.",
+      "touristPlaces": [
+        {
+          "name": "Agatti Island",
+          "image": "img/Tourists/Agatti.jpeg",
+          "description": "Gateway to Lakshadweep with turquoise lagoons and coral reefs perfect for snorkeling.",
+          "bestTimeToVisit": "October to March"
+        },
+        {
+          "name": "Bangaram Atoll",
+          "image": "img/Tourists/Bangaram.jpeg",
+          "description": "Uninhabited island with white sandy beaches and spectacular marine life.",
+          "bestTimeToVisit": "October to May"
+        },
+        {
+          "name": "Kavaratti Island",
+          "image": "img/Tourists/Kavaratti.jpeg",
+          "description": "Capital island known for its marine aquarium and pristine beaches.",
+          "bestTimeToVisit": "November to February"
+        }
+      ],
+      "festivals": [
+        "Eid-ul-Fitr",
+        "Milad-un-Nabi",
+        "Lakshadweep Tourism Festival"
+      ],
+      "majorIslands": [
+        "Kavaratti",
+        "Agatti",
+        "Bangaram",
+        "Kadmat",
+        "Minicoy"
+      ]
+    },
+    {
+      "id": "jammu-kashmir",
+      "name": "Jammu & Kashmir",
+      "tagline": "Paradise on Earth",
+      "headerImage": "linear-gradient(135deg, #9AC5F4 0%, #6A9BDD 100%)",
+      "mapCoordinates": {
+        "lat": 33.7782,
+        "lng": 76.5762
+      },
+      "facts": {
+        "formationDate": "31 October 2019",
+        "area": "42,241 km²",
+        "population": "12,267,013",
+        "capital": "Srinagar (Summer), Jammu (Winter)",
+        "languages": [
+          "Kashmiri",
+          "Dogri",
+          "Hindi",
+          "Urdu",
+          "English"
+        ],
+        "famousFood": "Rogan Josh, Gushtaba, Yakhni, Kashmiri Pulao",
+        "territoryAnimal": "Hangul",
+        "territoryBird": "Black-necked Crane",
+        "territoryFlower": "Lotus",
+        "territoryTree": "Chinar"
+      },
+      "leadership": {
+        "administrator": {
+          "name": "Manoj Sinha",
+          "photo": "img/administrator/jammu.jpg",
+          "tenure": "August 2020",
+          "designation": "Lieutenant Governor"
+        }
+      },
+      "history": "Jammu and Kashmir was a princely state that acceded to India in October 1947 under Maharaja Hari Singh following a tribal invasion from Pakistan. It enjoyed special autonomy under Article 370, which was abrogated on August 5, 2019, leading to the bifurcation of the state into two Union Territories—Jammu and Kashmir (with a legislative assembly) and Ladakh (without legislature). Since October 31, 2019, Jammu and Kashmir has been under the direct administration of the Central Government, with provisions for holding elections to enable local governance.",
+      "touristPlaces": [
+        {
+          "name": "Dal Lake",
+          "image": "img/Tourists/dal.jpeg",
+          "description": "Famous for its houseboats and shikara rides with mountain views.",
+          "bestTimeToVisit": "April to October"
+        },
+        {
+          "name": "Gulmarg",
+          "image": "img/Tourists/gulmarg.jpg",
+          "description": "Popular skiing destination with the world's highest gondola ride.",
+          "bestTimeToVisit": "December to March (snow), April to June (flowers)"
+        }
+      ],
+      "festivals": [
+        "Tulip Festival",
+        "Shikara Festival",
+        "Gurez Festival"
+      ],
+      "majorCities": [
+        "Srinagar",
+        "Jammu",
+        "Anantnag",
+        "Baramulla",
+        "Kathua"
+      ]
+    }
+  ]
+}
