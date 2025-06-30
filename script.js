@@ -304,24 +304,5 @@ document.addEventListener('DOMContentLoaded', function () {
   statsObserver.observe(statsSection);
 });
 
-document.querySelector('.scroll-button').addEventListener('click', function () {
-  const targetSection = document.querySelector('.container');
-  if (targetSection) {
-    const offset = 20;
-    const elementPosition = targetSection.getBoundingClientRect().top + window.pageYOffset;
-    const offsetPosition = elementPosition - offset;
 
-    window.scrollTo({
-      top: offsetPosition,
-      behavior: 'smooth'
-    });
-
-    // Visual feedback
-    const originalText = this.textContent;
-    this.textContent = 'Scrolling...';
-    setTimeout(() => {
-      this.textContent = originalText;
-    }, 1000);
-  }
-});
 
