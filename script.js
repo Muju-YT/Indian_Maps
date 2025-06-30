@@ -205,7 +205,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   // Set 'About' link as active
   document.querySelectorAll('.nav-link').forEach(link => link.classList.remove('active'));
-  document.querySelector('[href="about.html"]').classList.add('active');
+  
 
 
   // Scroll effect for navbar
