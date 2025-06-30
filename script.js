@@ -104,27 +104,6 @@ function showError() {
   document.getElementById('stateName').textContent = "State Not Found";
   document.getElementById('stateTagline').textContent = "The requested state information could not be loaded";
 }
-// Scroll to Top Button
-document.querySelector('.scroll-button').addEventListener('click', function () {
-  const targetSection = document.querySelector('.container');
-  if (targetSection) {
-    const offset = 20;
-    const elementPosition = targetSection.getBoundingClientRect().top + window.pageYOffset;
-    const offsetPosition = elementPosition - offset;
-
-    window.scrollTo({
-      top: offsetPosition,
-      behavior: 'smooth'
-    });
-
-    // Visual feedback
-    const originalText = this.textContent;
-    this.textContent = 'Scrolling...';
-    setTimeout(() => {
-      this.textContent = originalText;
-    }, 1000);
-  }
-});
 
 // Sample Gallery Data
 const galleryData = [
@@ -226,7 +205,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   // Set 'About' link as active
   document.querySelectorAll('.nav-link').forEach(link => link.classList.remove('active'));
- 
+  // document.querySelector('[href="about.html"]').classList.add('active');
 
 
   // Scroll effect for navbar
@@ -325,5 +304,24 @@ document.addEventListener('DOMContentLoaded', function () {
   statsObserver.observe(statsSection);
 });
 
+document.querySelector('.scroll-button').addEventListener('click', function () {
+  const targetSection = document.querySelector('.container');
+  if (targetSection) {
+    const offset = 20;
+    const elementPosition = targetSection.getBoundingClientRect().top + window.pageYOffset;
+    const offsetPosition = elementPosition - offset;
 
+    window.scrollTo({
+      top: offsetPosition,
+      behavior: 'smooth'
+    });
+
+    // Visual feedback
+    const originalText = this.textContent;
+    this.textContent = 'Scrolling...';
+    setTimeout(() => {
+      this.textContent = originalText;
+    }, 1000);
+  }
+});
 
