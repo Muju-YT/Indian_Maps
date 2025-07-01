@@ -1,3 +1,6 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 /* Navigation Styles */
 .navbar {
     background-color: var(--white);
@@ -286,7 +289,6 @@
     --saffron: #ff9933;
 }
 
-
 /* Footer Styles */
 .footer {
     background: linear-gradient(135deg, #00004d 0%, #000080 100%);
@@ -479,6 +481,15 @@
     color: rgba(255, 255, 255, 0.7);
     font-size: 0.9rem;
     margin: 0;
+}
+
+.footer-bottom a {
+    color: #ff9933;
+}
+
+.footer-bottom a:hover {
+    color: #138808;
+    text-decoration: underline;
 }
 
 .footer-bottom i.fa-heart {
