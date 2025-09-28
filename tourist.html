@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tourist Place</title>
+  <link rel="stylesheet" href="tourist.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+  <!-- Hero Section -->
+  <header id="touristHeader" class="tourist-header">
+    <video id="touristVideo" autoplay muted loop></video>
+    <div class="overlay">
+      <h1 id="placeName"></h1>
+      <p id="placeTagline"></p>
+    </div>
+  </header>
+
+  <main class="tourist-main">
+    <!-- About the Place -->
+    <section class="about-place">
+      <h2><i class="fas fa-info-circle"></i> About</h2>
+      <p id="placeDescription"></p>
+    </section>
+
+    <!-- History -->
+    <section class="history-place">
+      <h2><i class="fas fa-landmark"></i> History</h2>
+      <p id="placeHistory"></p>
+    </section>
+
+    <!-- Travel Cost -->
+    <section class="travel-cost">
+      <h2><i class="fas fa-wallet"></i> Travel Cost</h2>
+      <div class="cost-details" id="placeCost"></div>
+    </section>
+
+    <!-- Dedicated Video Tour -->
+    <section class="video-tour">
+      <h2><i class="fas fa-video"></i> Video Tour</h2>
+      <div id="placeVideoTour"></div>
+    </section>
+
+    <!-- Gallery -->
+    <section class="media-place">
+      <h2><i class="fas fa-images"></i> Gallery</h2>
+      <div id="placeGallery" class="gallery-grid"></div>
+    </section>
+
+    <!-- Map -->
+    <section class="map-section">
+      <h2><i class="fas fa-map-marker-alt"></i> Location</h2>
+      <div id="placeMap" class="map-container"></div>
+    </section>
+
+    <!-- Back Button -->
+    <div class="back-btn">
+      <a href="javascript:history.back()" class="btn">
+        <i class="fas fa-arrow-left"></i> Back
+      </a>
+    </div>
+  </main>
+  <script src="tourist.js"></script>
+</body>
+</html>

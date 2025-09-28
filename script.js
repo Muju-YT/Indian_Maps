@@ -29,16 +29,31 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
 function displayStateData(data, type) {
-  // Header
+  // Header: Name + Tagline
   document.getElementById('stateName').textContent = data.name;
   document.getElementById('stateTagline').textContent = data.tagline;
-  if (data.headerImage.startsWith('linear-gradient')) {
-    // Apply gradient directly
-    document.getElementById('stateHeader').style.background = data.headerImage;
-  } else {
-    // Apply image with overlay
-    document.getElementById('stateHeader').style.backgroundImage =
-      `linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(${data.headerImage})`;
+
+  const header = document.getElementById('stateHeader');
+  const videoEl = document.getElementById('stateVideo');
+
+  if (data.backgroundVideo) {
+    // Show video
+    videoEl.src = data.backgroundVideo;
+    videoEl.style.display = "block";
+
+    // Remove background image/gradient
+    header.style.background = "none";
+    header.style.backgroundImage = "none";
+  } else if (data.headerImage) {
+    // Hide video if no video
+    videoEl.style.display = "none";
+
+    if (data.headerImage.startsWith('linear-gradient')) {
+      header.style.background = data.headerImage;
+    } else {
+      header.style.backgroundImage =
+        `linear-gradient(rgba(0, 0, 0, 0.6), rgba(0,0,0,0.6)), url(${data.headerImage})`;
+    }
   }
 
   // Map
@@ -89,14 +104,18 @@ function displayStateData(data, type) {
 
   // Tourist Places
   document.getElementById('touristPlaces').innerHTML = data.touristPlaces.map(place => `
-    <div class="place-card">
-        <img src="${place.image}" alt="${place.name}" class="place-image">
-        <div class="place-info">
-            <h3>${place.name}</h3>
-            <p>${place.description}</p>
-            <a href="#" class="see-more">Read More <i class="fas fa-arrow-right"></i></a>
-        </div>
-    </div>`).join('');
+  <div class="place-card">
+      <img src="${place.image}" alt="${place.name}" class="place-image">
+      <div class="place-info">
+          <h3>${place.name}</h3>
+          <p>${place.description}</p>
+          <a href="tourist.html?place=${place.id}" class="see-more">
+              Read More <i class="fas fa-arrow-right"></i>
+          </a>
+      </div>
+  </div>`).join('');
+
+
 }
 
 
@@ -324,4 +343,18 @@ document.querySelector('.scroll-button').addEventListener('click', function () {
     }, 1000);
   }
 });
+
+
+document.getElementById('touristPlaces').innerHTML = data.touristPlaces.map(place => `
+  <div class="place-card">
+      <img src="${place.image}" alt="${place.name}" class="place-image">
+      <div class="place-info">
+          <h3>${place.name}</h3>
+          <p>${place.description}</p>
+          <a href="tourist.html?state=${data.id}&place=${encodeURIComponent(place.name)}" class="see-more">
+            Read More <i class="fas fa-arrow-right"></i>
+          </a>
+      </div>
+  </div>`).join('');
+
 

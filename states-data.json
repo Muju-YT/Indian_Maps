@@ -39,6 +39,21 @@
             "history": "Tamil Nadu, earlier part of the Madras Presidency, became a separate state in 1950 and was renamed Tamil Nadu in 1969. It is the heartland of Dravidian culture, with an unbroken tradition of Tamil language, temple architecture, classical dance (Bharatanatyam), and literature for over 2,000 years. It was a stronghold of early dynasties like the Cholas, Pandyas, and Pallavas. Politically, it has been dominated by Dravidian parties since the 1960s.",
             "touristPlaces": [
                 {
+                    "id": "meenakshi-amman-temple",
+                    "name": "Meenakshi Amman Temple",
+                    "description": "Magnificent Dravidian-style temple in Madurai dedicated to Goddess Meenakshi.",
+                    "image": "img/Tourists/Meenakshi.jpg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Meenakshi_Temple"
+                },
+                {
+                    "id": "marina-beach",
+                    "name": "Marina Beach",
+                    "description": "One of the longest beaches in the world, located in Chennai.",
+                    "image": "img/Tourists/Marina.jpeg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Marina_Beach"
+                },
+                {
+                    "id": "mahabalipuram",
                     "name": "Mahabalipuram",
                     "image": "img/Tourists/mahabalipuram.jpg",
                     "description": "A UNESCO World Heritage Site known for its ancient temples and rock carvings by the sea.",
@@ -46,11 +61,19 @@
                     "significance": "Group of Monuments at Mahabalipuram"
                 },
                 {
+                    "id": "ooty",
                     "name": "Ooty",
                     "image": "img/Tourists/ooty.jpg",
                     "description": "Popular hill station in the Nilgiri Hills known for its tea plantations and scenic beauty.",
                     "bestTimeToVisit": "April to June, September to November",
                     "significance": "Queen of Hill Stations"
+                },
+                {
+                    "id": "kanyakumari",
+                    "name": "Kanyakumari",
+                    "description": "Southernmost tip of India, famous for Vivekananda Rock Memorial and sunset views.",
+                    "image": "img/Tourists/Kanyakumari.jpeg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Kanyakumari"
                 }
             ],
             "festivals": [
@@ -105,6 +128,7 @@
             "history": "Kerala was formed on November 1, 1956, by merging Travancore, Cochin, and Malabar regions. It has an ancient history of trade with Romans, Arabs, and Chinese. Known as the land of spices, it was colonized by the Portuguese, Dutch, and finally the British. The region also has a strong tradition of literacy, social reform, and religious harmony. Kerala is now celebrated for its backwaters, high human development index, and progressive governance.",
             "touristPlaces": [
                 {
+                    "id": "alleppey-backwaters",
                     "name": "Alleppey Backwaters",
                     "image": "img/Tourists/alleppey.jpg",
                     "description": "Famous for its network of canals, houseboats, and paddy fields.",
@@ -112,11 +136,33 @@
                     "significance": "Venice of the East"
                 },
                 {
+                    "id": "munnar",
                     "name": "Munnar",
                     "image": "img/Tourists/munnar.jpg",
                     "description": "Hill station known for its sprawling tea plantations and cool climate.",
                     "bestTimeToVisit": "September to May",
                     "significance": "Kashmir of South India"
+                },
+                {
+                    "id": "kumarakom-bird-sanctuary",
+                    "name": "Kumarakom Bird Sanctuary",
+                    "description": "Sanctuary on Vembanad Lake attracting migratory birds.",
+                    "image": "img/Tourists/Kumarakom.jpeg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Kumarakom_Bird_Sanctuary"
+                },
+                {
+                    "id": "kovalam-beach",
+                    "name": "Kovalam Beach",
+                    "description": "Famous beach destination near Thiruvananthapuram.",
+                    "image": "img/Tourists/Kovalam.jpeg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Kovalam"
+                },
+                {
+                    "id": "periyar-wildlife-sanctuary",
+                    "name": "Periyar Wildlife Sanctuary",
+                    "description": "Popular for elephants, tigers, and boating in Periyar Lake.",
+                    "image": "img/Tourists/Periyar.webp",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Periyar_National_Park"
                 }
             ],
             "festivals": [
@@ -171,6 +217,28 @@
             "history": "Karnataka, earlier known as the State of Mysore, was renamed in 1973. It was formed on November 1, 1956, after merging Kannada-speaking regions from Bombay, Hyderabad, Madras, and Coorg states. Historically, it was home to powerful dynasties like the Chalukyas, Hoysalas, and the Vijayanagara Empire, which had its capital in Hampi. Under the British, the princely state of Mysore was ruled by the Wodeyar dynasty. Today, Karnataka is known for its IT hub Bengaluru, rich cultural legacy, and classical music traditions.",
             "touristPlaces": [
                 {
+                    "id": "coorg",
+                    "name": "Coorg",
+                    "description": "Known as Scotland of India, famous for coffee plantations and hills.",
+                    "image": "img/Tourists/coorg.jpeg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Coorg"
+                },
+                {
+                    "id": "bandipur-national-park",
+                    "name": "Bandipur National Park",
+                    "description": "A tiger reserve and part of the Nilgiri Biosphere Reserve.",
+                    "image": "img/Tourists/bandipur.jpg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Bandipur_National_Park"
+                },
+                {
+                    "id": "gokarna",
+                    "name": "Gokarna",
+                    "description": "Pilgrimage town with pristine beaches and the famous Om Beach.",
+                    "image": "img/Tourists/gokarna.png",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Gokarna,_Karnataka"
+                },
+                {
+                    "id": "hampi",
                     "name": "Hampi",
                     "image": "img/Tourists/hampi.jpg",
                     "description": "UNESCO World Heritage Site with ruins of the Vijayanagara Empire.",
@@ -178,6 +246,7 @@
                     "significance": "Ancient Capital of Vijayanagara Empire"
                 },
                 {
+                    "id": "mysore-palace",
                     "name": "Mysore Palace",
                     "image": "img/Tourists/mysore.jpg",
                     "description": "Historical palace and royal residence of the Wadiyar dynasty.",
@@ -237,6 +306,7 @@
             "history": "Maharashtra was formed on May 1, 1960, along with Gujarat, from the bilingual Bombay State. Historically, the region was part of the Maurya Empire and later ruled by the Satavahanas, Yadavas, Mughals, and the Maratha Empire led by Chhatrapati Shivaji Maharaj. Under the British, Bombay became a major trading hub. Post-independence, Maharashtra has evolved into an economic powerhouse and is home to Mumbai, India’s financial capital and Bollywood center.",
             "touristPlaces": [
                 {
+                    "id": "ajanta-ellora-caves",
                     "name": "Ajanta & Ellora Caves",
                     "image": "img/Tourists/ajanta.jpg",
                     "description": "UNESCO World Heritage Sites with ancient rock-cut cave monuments.",
@@ -244,11 +314,26 @@
                     "significance": "Masterpieces of Buddhist religious art"
                 },
                 {
+                    "id": "gateway-of-india",
                     "name": "Gateway of India",
                     "image": "img/Tourists/gateway.jpg",
                     "description": "Iconic arch monument built during British rule in Mumbai.",
                     "bestTimeToVisit": "October to February",
                     "significance": "Symbol of Mumbai"
+                },
+                {
+                    "id": "shirdi",
+                    "name": "Shirdi",
+                    "description": "Pilgrimage town famous as the home of Sai Baba.",
+                    "image": "img/Tourists/Shirdi.jpeg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Shirdi"
+                },
+                {
+                    "id": "mahabaleshwar",
+                    "name": "Mahabaleshwar",
+                    "description": "A hill station in the Western Ghats known for strawberries and viewpoints.",
+                    "image": "img/Tourists/Mahabaleshwar.jpeg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Mahabaleshwar"
                 }
             ],
             "festivals": [
@@ -304,6 +389,7 @@
             "history": "Rajasthan, the Land of Kings, was formed by merging over 22 princely states after independence, with the process completed in 1956. Before that, it was known as Rajputana, ruled by powerful Rajput clans like the Sisodias, Rathores, and Chauhans. The region was known for its valor, forts (like Chittorgarh, Jaisalmer, and Mehrangarh), and resistance to Mughal rule. It became a unified state with Jaipur as its capital and remains a major center of tourism and heritage.",
             "touristPlaces": [
                 {
+                    "id": "jaipur-city-palace",
                     "name": "Jaipur City Palace",
                     "image": "img/Tourists/jaipur.jpg",
                     "description": "Royal residence with museums, courtyards and gardens in the Pink City.",
@@ -311,11 +397,33 @@
                     "significance": "Part of UNESCO World Heritage Site"
                 },
                 {
+                    "id": "udaipur-lake-palace",
                     "name": "Udaipur Lake Palace",
-                    "image": "img/Tourists/udaipur.jpg",
+                    "image": "img/Tourists/Lake3.jpeg",
                     "description": "Romantic luxury hotel on an island in Lake Pichola.",
                     "bestTimeToVisit": "September to March",
                     "significance": "One of the most beautiful palaces in the world"
+                },
+                {
+                    "id": "jaisalmer-fort",
+                    "name": "Jaisalmer Fort",
+                    "description": "Also called 'Golden Fort', it is one of the largest living forts in the world.",
+                    "image": "img/Tourists/Jaisalmer.jpeg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Jaisalmer_Fort"
+                },
+                {
+                    "id": "hawa-mahal",
+                    "name": "Hawa Mahal",
+                    "description": "The 'Palace of Winds' with 953 windows, built in 1799.",
+                    "image": "img/Tourists/Hawa.jpeg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Hawa_Mahal"
+                },
+                {
+                    "id": "mount-abu",
+                    "name": "Mount Abu",
+                    "description": "Rajasthan’s only hill station, famous for Dilwara Jain temples.",
+                    "image": "img/Tourists/Abu2.jpeg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Mount_Abu"
                 }
             ],
             "festivals": [
@@ -371,6 +479,7 @@
             "history": "Uttar Pradesh (UP) was known as the United Provinces under British rule and was renamed UP in 1950. Historically, it was the seat of Hindu epics (like Ayodhya and Mathura), Buddhism (Sarnath and Kushinagar), and Mughal glory (Agra and Fatehpur Sikri). It played a central role in India’s freedom movement with leaders like Gandhi, Nehru, and Subhas Chandra Bose visiting or originating from the region. It is India’s most populous and politically dominant state.",
             "touristPlaces": [
                 {
+                    "id": "taj-mahal",
                     "name": "Taj Mahal",
                     "image": "img/Tourists/taj.webp",
                     "description": "One of the Seven Wonders of the World in Agra.",
@@ -378,11 +487,33 @@
                     "significance": "UNESCO World Heritage Site"
                 },
                 {
+                    "id": "varanasi-ghats",
                     "name": "Varanasi Ghats",
                     "image": "img/Tourists/ghats.png",
                     "description": "Spiritual heart of India with ancient temples and Ganga Aarti.",
                     "bestTimeToVisit": "November to February",
                     "significance": "One of the oldest cities in the world"
+                },
+                {
+                    "id": "fatehpur-sikri",
+                    "name": "Fatehpur Sikri",
+                    "description": "A Mughal UNESCO heritage site built by Emperor Akbar.",
+                    "image": "img/Tourists/Fatehpur.jpeg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Fatehpur_Sikri"
+                },
+                {
+                    "id": "ayodhya-ram-mandir",
+                    "name": "Ayodhya Ram Mandir",
+                    "description": "Recently built grand temple dedicated to Lord Rama.",
+                    "image": "img/Tourists/Ayodhya.jpeg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Ayodhya"
+                },
+                {
+                    "id": "sarnath",
+                    "name": "Sarnath",
+                    "description": "Buddhist pilgrimage site where Gautama Buddha gave his first sermon.",
+                    "image": "img/Tourists/Sarnath.jpeg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Sarnath"
                 }
             ],
             "festivals": [
@@ -438,6 +569,7 @@
             "history": "Bihar, the cradle of ancient Indian civilization, was the home of the Mauryan and Gupta empires, and the birthplaces of Buddhism and Jainism. Nalanda and Vikramshila, once world-renowned universities, thrived here. Under the British, it was part of the Bengal Presidency but became a separate province in 1912. Post-independence, it remained a large state until Jharkhand was separated in 2000. While facing development challenges, it remains politically influential.",
             "touristPlaces": [
                 {
+                    "id": "bodh-gaya",
                     "name": "Bodh Gaya",
                     "image": "img/Tourists/bodh.jpg",
                     "description": "Place where Gautama Buddha attained enlightenment.",
@@ -445,11 +577,33 @@
                     "significance": "UNESCO World Heritage Site"
                 },
                 {
+                    "id": "nalanda-university",
                     "name": "Nalanda University",
                     "image": "img/Tourists/nalanda.jpg",
                     "description": "Ancient center of learning.",
                     "bestTimeToVisit": "November to February",
                     "significance": "Historical educational institution"
+                },
+                {
+                    "id": "mahabodhi-temple",
+                    "name": "Mahabodhi Temple",
+                    "description": "A UNESCO World Heritage Buddhist temple in Bodh Gaya where Lord Buddha attained enlightenment.",
+                    "image": "img/Tourists/mahabodhi.jpg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Mahabodhi_Temple"
+                },
+                {
+                    "id": "rajgir",
+                    "name": "Rajgir",
+                    "description": "Historic town associated with Lord Buddha and Lord Mahavira, with hot springs and ropeway.",
+                    "image": "img/Tourists/rajgir.jpeg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Rajgir"
+                },
+                {
+                    "id": "vaishali",
+                    "name": "Vaishali",
+                    "description": "Birthplace of Lord Mahavira and an important Buddhist and Jain pilgrimage site.",
+                    "image": "img/Tourists/vaishali.jpeg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Vaishali_(ancient_city)"
                 }
             ],
             "festivals": [
@@ -504,6 +658,28 @@
             "history": "Madhya Pradesh, often called the 'Heart of India', was formed on November 1, 1956, by merging Madhya Bharat, Vindhya Pradesh, Bhopal, and Central Provinces & Berar. It was home to great dynasties like the Mauryas, Guptas, Paramaras, and Mughals. Sites like Khajuraho, Sanchi, and Bhimbetka bear witness to its ancient cultural glory. In 2000, Chhattisgarh was carved out to improve governance in tribal areas.",
             "touristPlaces": [
                 {
+                    "id": "bandhavgarh-national-park",
+                    "name": "Bandhavgarh National Park",
+                    "description": "Famous tiger reserve with the highest density of Bengal tigers.",
+                    "image": "img/Tourists/Bandhavgarh.jpeg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Bandhavgarh_National_Park"
+                },
+                {
+                    "id": "bhopal-upper-lake",
+                    "name": "Bhopal Upper Lake",
+                    "description": "Asia’s largest artificial lake, popular for boating and scenic beauty.",
+                    "image": "img/Tourists/Bhopal.jpeg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Bhojtal"
+                },
+                {
+                    "id": "gwalior-fort",
+                    "name": "Gwalior Fort",
+                    "description": "A hill fort known as 'the pearl among Indian forts'.",
+                    "image": "img/Tourists/Gwalior3.jpeg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Gwalior_Fort"
+                },
+                {
+                    "id": "khajuraho",
                     "name": "Khajuraho",
                     "image": "img/Tourists/khajuraho.jpg",
                     "description": "Famous for its stunning erotic rock carvings and temples.",
@@ -511,6 +687,7 @@
                     "significance": "UNESCO World Heritage Site"
                 },
                 {
+                    "id": "sanchi-stupa",
                     "name": "Sanchi Stupa",
                     "image": "img/Tourists/sanchi.jpg",
                     "description": "Buddhist complex with one of the oldest stone structures in India.",
@@ -570,16 +747,39 @@
             "history": "Andhra Pradesh holds the distinction of being the first state formed on a linguistic basis in India. After years of demands for a separate Telugu-speaking state, it was carved out of the Madras Presidency on October 1, 1953, with Kurnool as the capital. The demand intensified following the death of Potti Sriramulu, who died fasting for this cause. Later, in 1956, under the States Reorganisation Act, Andhra merged with the Telangana region (which was part of Hyderabad State) to form a united Andhra Pradesh. However, after prolonged agitation, Telangana was separated in 2014, making Andhra Pradesh a reorganized state. It now plans Visakhapatnam as its executive capital.",
             "touristPlaces": [
                 {
+                    "id": "tirupati-temple",
                     "name": "Tirupati Temple",
                     "description": "One of the richest and most visited religious shrines in the world.",
                     "image": "img/Tourists/andhra_tirupati.jpg",
                     "moreInfoLink": "https://www.tirumala.org"
                 },
                 {
+                    "id": "araku-valley",
                     "name": "Araku Valley",
                     "description": "A scenic hill station known for its coffee plantations and tribal culture.",
                     "image": "img/Tourists/andhra_araku_valley.jpg",
                     "moreInfoLink": "https://www.arakuvalley.org"
+                },
+                {
+                    "id": "amaravati",
+                    "name": "Amaravati",
+                    "description": "Historical site with ancient Buddhist stupas and proposed state capital.",
+                    "image": "img/Tourists/amravati.jpeg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Amaravati"
+                },
+                {
+                    "id": "borra-caves",
+                    "name": "Borra Caves",
+                    "description": "Natural limestone caves with stalactites and stalagmites near Visakhapatnam.",
+                    "image": "img/Tourists/BorraCaves.jpg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Borra_Caves"
+                },
+                {
+                    "id": "kailasagiri",
+                    "name": "Kailasagiri",
+                    "description": "A hilltop park in Visakhapatnam offering panoramic views and giant Shiva-Parvati statues.",
+                    "image": "img/Tourists/Kailasagiri.jpg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Kailasagiri"
                 }
             ]
         },
@@ -624,16 +824,39 @@
             "history": "Assam has a rich ancient history linked with the Kamarupa kingdom and later the Ahom dynasty, which ruled for over 600 years. It became a part of British India in 1826 through the Treaty of Yandabo after the First Anglo-Burmese War. Assam was originally a large province and was gradually reduced as Nagaland (1963), Meghalaya (1972), Mizoram (1987), and Arunachal Pradesh (1987) were carved out. Known for its tea estates, Kaziranga National Park, and ethnic diversity, Assam has also seen periods of unrest including the Assam Agitation (1979–1985).",
             "touristPlaces": [
                 {
+                    "id": "kaziranga-national-park",
                     "name": "Kaziranga National Park",
                     "description": "A UNESCO World Heritage Site, home to the largest population of one-horned rhinoceroses.",
                     "image": "img/Tourists/Kaziranga.jpg",
                     "moreInfoLink": "https://www.kaziranganationalpark-india.com"
                 },
                 {
+                    "id": "majuli",
                     "name": "Majuli",
                     "description": "World's largest river island known for its monasteries and festivals.",
                     "image": "img/Tourists/majuli.jpg",
                     "moreInfoLink": "https://en.wikipedia.org/wiki/Majuli"
+                },
+                {
+                    "id": "kamakhya-temple",
+                    "name": "Kamakhya Temple",
+                    "description": "A revered Shakti Peetha temple in Guwahati.",
+                    "image": "img/Tourists/kamakhya.jpg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Kamakhya_Temple"
+                },
+                {
+                    "id": "sivasagar",
+                    "name": "Sivasagar",
+                    "description": "Historic Ahom kingdom capital with temples and palaces.",
+                    "image": "img/Tourists/sivasagar.jpg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Sivasagar"
+                },
+                {
+                    "id": "manas-national-park",
+                    "name": "Manas National Park",
+                    "description": "A UNESCO World Heritage Site and tiger reserve on the Bhutan border.",
+                    "image": "img/Tourists/manas.webp",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Manas_National_Park"
                 }
             ]
         },
@@ -676,16 +899,39 @@
             "history": "Known as the 'Land of the Rising Sun', Arunachal Pradesh was originally part of Assam and remained under the North-East Frontier Agency (NEFA) during British rule and early post-independence years. Due to its strategic importance, it was administered separately. It became a Union Territory in 1972 and was granted full statehood on February 20, 1987. The region has a distinct identity with over 26 tribes and 100+ sub-tribes, and has seen tensions with China, which claims parts of it.",
             "touristPlaces": [
                 {
+                    "id": "tawang-monastery",
                     "name": "Tawang Monastery",
                     "description": "One of the largest Buddhist monasteries in India, located in the Tawang Valley.",
                     "image": "img/Tourists/tawang.jpg",
                     "moreInfoLink": "https://en.wikipedia.org/wiki/Tawang_Monastery"
                 },
                 {
+                    "id": "ziro-valley",
                     "name": "Ziro Valley",
                     "description": "A lush green valley known for the Ziro Music Festival and Apatani tribal heritage.",
                     "image": "img/Tourists/ziro.jpg",
                     "moreInfoLink": "https://en.wikipedia.org/wiki/Ziro_valley"
+                },
+                {
+                    "id": "namdapha-national-park",
+                    "name": "Namdapha National Park",
+                    "description": "A biodiversity hotspot and the largest protected area in the Eastern Himalaya.",
+                    "image": "img/Tourists/namdapha.webp",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Namdapha_National_Park"
+                },
+                {
+                    "id": "bomdila",
+                    "name": "Bomdila",
+                    "description": "A serene hill station with monasteries, apple orchards, and Himalayan views.",
+                    "image": "img/Tourists/bomdila.jpeg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Bomdila"
+                },
+                {
+                    "id": "sela-pass",
+                    "name": "Sela Pass",
+                    "description": "A high-altitude mountain pass at 13,700 ft offering breathtaking views and a sacred lake.",
+                    "image": "img/Tourists/sela_pass.jpeg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Sela_Pass"
                 }
             ]
         },
@@ -729,16 +975,39 @@
             "history": "Chhattisgarh was part of Madhya Pradesh until it was carved out on November 1, 2000, due to demands for better administration for its tribal-dominated regions. Rich in natural resources, forests, and minerals, it also has ancient links to the Mauryan and Gupta empires. The state has faced Naxalite insurgency issues in some regions but continues to develop its tribal and agricultural economy.",
             "touristPlaces": [
                 {
+                    "id": "chitrakote-falls",
                     "name": "Chitrakote Falls",
                     "description": "The widest waterfall in India, often called the 'Niagara of India'.",
                     "image": "img/Tourists/chitrakote.jpg",
                     "moreInfoLink": "https://en.wikipedia.org/wiki/Chitrakote_Falls"
                 },
                 {
+                    "id": "barnawapara-sanctuary",
                     "name": "Barnawapara Sanctuary",
                     "description": "A peaceful wildlife sanctuary known for leopards and antelopes.",
                     "image": "img/Tourists/barnawapara.jpg",
                     "moreInfoLink": "https://www.cgforest.com"
+                },
+                {
+                    "id": "kanger-valley-national-park",
+                    "name": "Kanger Valley National Park",
+                    "description": "Rich in biodiversity, waterfalls, and limestone caves.",
+                    "image": "img/Tourists/kanger.png",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Kanger_Ghati_National_Park"
+                },
+                {
+                    "id": "sirpur",
+                    "name": "Sirpur",
+                    "description": "Historic site with Buddhist and Hindu archaeological remains.",
+                    "image": "img/Tourists/sirpur.jpeg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Sirpur_(archaeological_site)"
+                },
+                {
+                    "id": "tirathgarh-falls",
+                    "name": "Tirathgarh Falls",
+                    "description": "Waterfall near Jagdalpur, a scenic and spiritual site.",
+                    "image": "img/Tourists/tirathgarh.jpg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Tirathgarh_Falls"
                 }
             ]
         },
@@ -781,12 +1050,35 @@
             "history": "Formed on May 1, 1960, Gujarat was carved out of the Bombay State along with Maharashtra. The region has a long and rich history, from the Indus Valley Civilization at Lothal, to the rule of Mauryas, Solankis, and Mughals. Gujarat is also the birthplace of Mahatma Gandhi. Post-independence, it has become a major hub for industry, trade, and entrepreneurship.",
             "touristPlaces": [
                 {
+                    "id": "dwarkadhish-temple",
+                    "name": "Dwarkadhish Temple",
+                    "description": "A major Hindu pilgrimage site dedicated to Lord Krishna.",
+                    "image": "img/Tourists/dwarka.jpeg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Dwarkadhish_Temple"
+                },
+                {
+                    "id": "somnath-temple",
+                    "name": "Somnath Temple",
+                    "description": "One of the 12 Jyotirlinga shrines of Lord Shiva.",
+                    "image": "img/Tourists/somnath.jpeg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Somnath_temple"
+                },
+                {
+                    "id": "rann-of-kutch",
+                    "name": "Rann of Kutch",
+                    "description": "A vast white salt desert famous for Rann Utsav.",
+                    "image": "img/Tourists/kutch.jpg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Great_Rann_of_Kutch"
+                },
+                {
+                    "id": "statue-of-unity",
                     "name": "Statue of Unity",
                     "description": "World’s tallest statue, dedicated to Sardar Vallabhbhai Patel.",
                     "image": "img/Tourists/unity.jpg",
                     "moreInfoLink": "https://statueofunity.in"
                 },
                 {
+                    "id": "gir-national-park",
                     "name": "Gir National Park",
                     "description": "Only home to Asiatic Lions in the world.",
                     "image": "img/Tourists/gir.jpg",
@@ -834,16 +1126,39 @@
             "history": "Haryana was created on November 1, 1966, after the division of Punjab on linguistic lines. Historically, it was part of the Vedic region of Kurukshetra, the setting of the Mahabharata. In modern India, it is known for its contribution to agriculture (Green Revolution), sports, and industrial development around Gurugram and Faridabad.",
             "touristPlaces": [
                 {
+                    "id": "kurukshetra",
                     "name": "Kurukshetra",
                     "description": "Historical battlefield of the Mahabharata.",
                     "image": "img/Tourists/kurukshetra.jpg",
                     "moreInfoLink": "https://en.wikipedia.org/wiki/Kurukshetra"
                 },
                 {
+                    "id": "sultanpur-bird-sanctuary",
                     "name": "Sultanpur Bird Sanctuary",
                     "description": "A birdwatcher's paradise with migratory species.",
                     "image": "img/Tourists/Sultanpur.jpg",
                     "moreInfoLink": "https://haryanatourism.gov.in"
+                },
+                {
+                    "id": "pinjore-gardens",
+                    "name": "Pinjore Gardens",
+                    "description": "Beautiful Mughal-era terraced gardens near Chandigarh.",
+                    "image": "img/Tourists/pinjore.jpg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Yadavindra_Gardens"
+                },
+                {
+                    "id": "morni-hills",
+                    "name": "Morni Hills",
+                    "description": "Scenic hill station in the Shivalik ranges.",
+                    "image": "img/Tourists/morni.jpeg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Morni_Hills"
+                },
+                {
+                    "id": "karna-lake",
+                    "name": "Karna Lake",
+                    "description": "A recreational lake linked with Karna from the Mahabharata.",
+                    "image": "img/Tourists/karna.jpg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Karna_Lake"
                 }
             ]
         },
@@ -886,16 +1201,39 @@
             "history": "Composed of many princely hill states, Himachal Pradesh became a Union Territory in 1950 and achieved full statehood on January 25, 1971. The region was once under the control of the Mughals, Sikhs, and British. Known for its natural beauty, tourism, and apple orchards, it is also referred to as “Dev Bhoomi” (Land of the Gods).",
             "touristPlaces": [
                 {
+                    "id": "shimla",
                     "name": "Shimla",
                     "description": "The Queen of Hills and former British summer capital.",
                     "image": "img/Tourists/shimla.jpg",
                     "moreInfoLink": "https://en.wikipedia.org/wiki/Shimla"
                 },
                 {
+                    "id": "manali",
                     "name": "Manali",
                     "description": "Popular hill station for honeymooners and trekkers.",
                     "image": "img/Tourists/manali.jpg",
                     "moreInfoLink": "https://en.wikipedia.org/wiki/Manali,_Himachal_Pradesh"
+                },
+                {
+                    "id": "dharamshala",
+                    "name": "Dharamshala",
+                    "description": "Home to the Dalai Lama and Tibetan culture.",
+                    "image": "img/Tourists/dharamshala.jpeg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Dharamshala"
+                },
+                {
+                    "id": "kullu-valley",
+                    "name": "Kullu Valley",
+                    "description": "Valley of Gods, famous for apple orchards and Dussehra festival.",
+                    "image": "img/Tourists/kullu.jpeg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Kullu"
+                },
+                {
+                    "id": "spiti-valley",
+                    "name": "Spiti Valley",
+                    "description": "Cold desert valley with monasteries and high-altitude treks.",
+                    "image": "img/Tourists/spiti.jpg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Spiti_valley"
                 }
             ]
         },
@@ -940,12 +1278,35 @@
             "history": "Created on November 15, 2000, from Bihar, Jharkhand has long been home to various tribal communities and played a role in several tribal uprisings against the British. Rich in minerals like coal, iron, and mica, it contributes significantly to India's industry. Ranchi, the capital, was once the summer capital of Bihar.",
             "touristPlaces": [
                 {
+                    "id": "betla-national-park",
+                    "name": "Betla National Park",
+                    "description": "Rich wildlife reserve in the Palamu district.",
+                    "image": "img/Tourists/betla.png",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Betla_National_Park"
+                },
+                {
+                    "id": "dassam-falls",
+                    "name": "Dassam Falls",
+                    "description": "A beautiful 144 ft waterfall near Ranchi.",
+                    "image": "img/Tourists/dassam.jpg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Dassam_Falls"
+                },
+                {
+                    "id": "parasnath-hill",
+                    "name": "Parasnath Hill",
+                    "description": "Important Jain pilgrimage site, the highest hill in Jharkhand.",
+                    "image": "img/Tourists/parasnath.jpg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Parasnath"
+                },
+                {
+                    "id": "hundru-falls",
                     "name": "Hundru Falls",
                     "description": "One of the highest waterfalls in the state.",
                     "image": "img/Tourists/hundru.jpg",
                     "moreInfoLink": "https://en.wikipedia.org/wiki/Hundru_Falls"
                 },
                 {
+                    "id": "netarhat",
                     "name": "Netarhat",
                     "description": "Popularly known as the 'Queen of Chotanagpur'.",
                     "image": "img/Tourists/netarhat.jpg",
@@ -993,12 +1354,35 @@
             "history": "Manipur was an independent kingdom with its own constitution and royal family until it merged with India in 1949. It became a full-fledged state on January 21, 1972. Manipur has a rich tradition of dance (Raas Leela), martial arts, and indigenous sports. It has faced long-standing insurgency and ethnic tensions but remains a culturally vibrant part of the Northeast.",
             "touristPlaces": [
                 {
+                    "id": "loktak-lake",
                     "name": "Loktak Lake",
                     "description": "Largest freshwater lake in Northeast India, famous for floating islands (Phumdis).",
                     "image": "img/Tourists/lotak.jpg",
                     "moreInfoLink": "https://en.wikipedia.org/wiki/Loktak_Lake"
                 },
                 {
+                    "id": "kangla-fort",
+                    "name": "Kangla Fort",
+                    "description": "Historic fort and cultural heritage site in Imphal.",
+                    "image": "img/Tourists/Kangla.jpeg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Kangla_Fort"
+                },
+                {
+                    "id": "keibul-lamjao-national-park",
+                    "name": "Keibul Lamjao National Park",
+                    "description": "World’s only floating national park, home to Sangai deer.",
+                    "image": "img/Tourists/Keibul.jpeg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Keibul_Lamjao_National_Park"
+                },
+                {
+                    "id": "shree-govindajee-temple",
+                    "name": "Shree Govindajee Temple",
+                    "description": "Historic Vaishnavite temple near Kangla Fort.",
+                    "image": "img/Tourists/Shree.jpeg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Shree_Govindajee_Temple"
+                },
+                {
+                    "id": "shirui-hills",
                     "name": "Shirui Hills",
                     "description": "Home to the rare Shirui Lily flower.",
                     "image": "img/Tourists/shirui.jpg",
@@ -1047,10 +1431,39 @@
             "history": "Carved out of Assam, Meghalaya became a full state on January 21, 1972. It was originally part of the Khasi and Jaintia Hills under British rule. Meghalaya, meaning 'Abode of Clouds,' is home to the Khasi, Garo, and Jaintia tribes, each with distinct matrilineal cultures. Known for its scenic landscapes and the world's wettest places like Mawsynram, it has been relatively peaceful compared to neighboring states.",
             "touristPlaces": [
                 {
+                    "id": "cherrapunji",
                     "name": "Cherrapunji",
                     "description": "One of the wettest places on Earth, famous for living root bridges.",
                     "image": "img/Tourists/cherrapunji.jpg",
                     "moreInfoLink": "https://en.wikipedia.org/wiki/Cherrapunji"
+                },
+                {
+                    "id": "mawsynram",
+                    "name": "Mawsynram",
+                    "description": "The wettest place on Earth.",
+                    "image": "img/Tourists/mawsynram.jpg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Mawsynram"
+                },
+                {
+                    "id": "shillong-peak",
+                    "name": "Shillong Peak",
+                    "description": "Highest point in Shillong offering panoramic views.",
+                    "image": "img/Tourists/Shillong.jpeg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Shillong_Peak"
+                },
+                {
+                    "id": "dawki",
+                    "name": "Dawki",
+                    "description": "Crystal-clear Umngot River famous for boating.",
+                    "image": "img/Tourists/Dawki.jpg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Dawki"
+                },
+                {
+                    "id": "nohkalikai-falls",
+                    "name": "Nohkalikai Falls",
+                    "description": "Tallest plunge waterfall in India.",
+                    "image": "img/Tourists/nohkalikai3.jpeg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Nohkalikai_Falls"
                 }
             ]
         },
@@ -1094,12 +1507,35 @@
             "history": "Formerly part of Assam, Mizoram saw unrest in the 1960s after the Mizo National Front (MNF) rebelled. A peace accord in 1986 between the MNF and the Indian government led to Mizoram attaining statehood on February 20, 1987. It has strong Christian missionary influence, is among India’s most literate states, and maintains peaceful relations despite its earlier insurgency.",
             "touristPlaces": [
                 {
+                    "id": "aizawl",
                     "name": "Aizawl",
                     "description": "The capital, known for scenic viewpoints and vibrant markets.",
                     "image": "img/Tourists/aizawl.jpg",
                     "moreInfoLink": "https://en.wikipedia.org/wiki/Aizawl"
                 },
                 {
+                    "id": "reiek",
+                    "name": "Reiek",
+                    "description": "Picturesque hill and heritage village.",
+                    "image": "img/Tourists/Reiek.jpeg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Reiek"
+                },
+                {
+                    "id": "phawngpui",
+                    "name": "Phawngpui",
+                    "description": "Also called Blue Mountain, highest peak in Mizoram.",
+                    "image": "img/Tourists/Phawngpui.jpg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Phawngpui"
+                },
+                {
+                    "id": "tam-dil-lake",
+                    "name": "Tam Dil Lake",
+                    "description": "Beautiful lake surrounded by thick forests.",
+                    "image": "img/Tourists/Tam.jpeg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Tam_Dil"
+                },
+                {
+                    "id": "vantawng-falls",
                     "name": "Vantawng Falls",
                     "description": "The highest waterfall in Mizoram, cascading through lush forests.",
                     "image": "img/Tourists/vantawang.jpg",
@@ -1147,16 +1583,39 @@
             "history": "Nagaland was the first northeastern state to be carved out from Assam in 1963. The region was known for fierce Naga tribes, and in post-independence years, it witnessed separatist movements for sovereignty. A fragile ceasefire has held since the 1990s, with ongoing peace talks. Nagaland is culturally rich with festivals like Hornbill, and is largely Christian.",
             "touristPlaces": [
                 {
+                    "id": "kohima-war-cemetery",
+                    "name": "Kohima War Cemetery",
+                    "description": "Memorial for soldiers of World War II.",
+                    "image": "img/Tourists/Kohima.jpeg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Kohima_War_Cemetery"
+                },
+                {
+                    "id": "hornbill-festival",
                     "name": "Hornbill Festival",
                     "description": "A major cultural festival showcasing the tribal heritage of Nagaland.",
                     "image": "img/Tourists/hornbill.jpg",
                     "moreInfoLink": "https://www.hornbillfestival.com"
                 },
                 {
+                    "id": "dzukou-valley",
                     "name": "Dzükou Valley",
                     "description": "A breathtaking valley with seasonal flowers, perfect for trekking.",
                     "image": "img/Tourists/dzukou.jpg",
                     "moreInfoLink": "https://en.wikipedia.org/wiki/Dz%C3%BCkou_Valley"
+                },
+                {
+                    "id": "japfu-peak",
+                    "name": "Japfu Peak",
+                    "description": "Second-highest peak in Nagaland, great for trekking.",
+                    "image": "img/Tourists/Japfu.jpeg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Japfu_Peak"
+                },
+                {
+                    "id": "tuophema-village",
+                    "name": "Tuophema Village",
+                    "description": "Heritage village promoting Naga traditions.",
+                    "image": "img/Tourists/Tuophema.jpeg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Tuophema"
                 }
             ]
         },
@@ -1199,16 +1658,39 @@
             "history": "Odisha, formerly Orissa, has ancient links to the Kalinga kingdom, which famously turned Emperor Ashoka towards Buddhism after the bloody Kalinga War (261 BCE). It became a separate province in 1936, making it the first state created on linguistic basis for Odia speakers. Renamed Odisha in 2011, the state is known for Jagannath Puri, Konark Sun Temple, and tribal communities.",
             "touristPlaces": [
                 {
+                    "id": "jagannath-temple",
+                    "name": "Jagannath Temple, Puri",
+                    "description": "Famous Hindu temple and site of the Rath Yatra.",
+                    "image": "img/Tourists/Jagannath.jpeg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Jagannath_Temple,_Puri"
+                },
+                {
+                    "id": "konark-sun-temple",
                     "name": "Konark Sun Temple",
                     "description": "A UNESCO World Heritage Site famous for its intricate architecture and historical significance.",
                     "image": "img/Tourists/konark.jpg",
                     "moreInfoLink": "https://en.wikipedia.org/wiki/Konark_Sun_Temple"
                 },
                 {
+                    "id": "chilika-lake",
                     "name": "Chilika Lake",
                     "description": "Asia's largest brackish water lagoon, home to migratory birds and dolphins.",
                     "image": "img/Tourists/chilika.jpg",
                     "moreInfoLink": "https://en.wikipedia.org/wiki/Chilika_Lake"
+                },
+                {
+                    "id": "udayagiri-khandagiri",
+                    "name": "Udayagiri and Khandagiri Caves",
+                    "description": "Historic caves with Jain carvings.",
+                    "image": "img/Tourists/Udayagiri.jpeg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Udayagiri_and_Khandagiri_Caves"
+                },
+                {
+                    "id": "simlipal-national-park",
+                    "name": "Simlipal National Park",
+                    "description": "Tiger reserve and biosphere reserve.",
+                    "image": "img/Tourists/Simlipal1.webp",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Simlipal_National_Park"
                 }
             ]
         },
@@ -1251,16 +1733,39 @@
             "history": "Punjab has a rich ancient and medieval history, being the land of the Indus Valley Civilization, Vedic culture, and later the Sikh Gurus. It was partitioned in 1947, leading to massive migration and trauma. In 1966, it was reorganized on linguistic lines, with Haryana and Himachal Pradesh carved out. Punjab is today a Sikh-majority state, known for agriculture, bhangra music, and military contributions.",
             "touristPlaces": [
                 {
+                    "id": "golden-temple",
                     "name": "Golden Temple",
                     "description": "A sacred Sikh shrine in Amritsar known for its golden structure and spiritual significance.",
                     "image": "img/Tourists/golden.jpg",
                     "moreInfoLink": "https://en.wikipedia.org/wiki/Golden_Temple"
                 },
                 {
+                    "id": "wagah-border",
                     "name": "Wagah Border",
                     "description": "Famous for the daily military ceremony between India and Pakistan.",
                     "image": "img/Tourists/wagh.jpg",
                     "moreInfoLink": "https://en.wikipedia.org/wiki/Wagah_border_ceremony"
+                },
+                {
+                    "id": "jallianwala-bagh",
+                    "name": "Jallianwala Bagh",
+                    "description": "Historical site of the tragic 1919 massacre, now a memorial park in Amritsar.",
+                    "image": "img/Tourists/jallianwala.jpeg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Jallianwala_Bagh"
+                },
+                {
+                    "id": "anandpur-sahib",
+                    "name": "Anandpur Sahib",
+                    "description": "A holy city in Rupnagar, known for its Sikh history and festivals like Hola Mohalla.",
+                    "image": "img/Tourists/anandpur.jpg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Anandpur_Sahib"
+                },
+                {
+                    "id": "sheesh-mahal",
+                    "name": "Sheesh Mahal",
+                    "description": "A beautiful palace in Patiala with intricate mirror work and royal architecture.",
+                    "image": "img/Tourists/Sheesh.jpeg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Sheesh_Mahal,_Patiala"
                 }
             ]
         },
@@ -1306,16 +1811,39 @@
             "history": "Sikkim was an independent Buddhist kingdom ruled by the Chogyal dynasty. In 1947, it became a protectorate of India, retaining autonomy. Following political unrest and a referendum in 1975, Sikkim voted to join India and became the 22nd state. It is India's second smallest state and is known for Mount Kanchenjunga, monasteries, and its peaceful integration into the Indian Union. It retains its distinct Tibeto-Buddhist culture.",
             "touristPlaces": [
                 {
+                    "id": "tsomgo-lake",
                     "name": "Tsomgo Lake",
                     "description": "A high-altitude lake known for its stunning reflection and changing colors.",
                     "image": "img/Tourists/tsomgo.jpg",
                     "moreInfoLink": "https://en.wikipedia.org/wiki/Tsomgo_Lake"
                 },
                 {
+                    "id": "rumtek-monastery",
                     "name": "Rumtek Monastery",
                     "description": "One of the largest Buddhist monasteries in Sikkim.",
                     "image": "img/Tourists/rumtek.jpg",
                     "moreInfoLink": "https://en.wikipedia.org/wiki/Rumtek_Monastery"
+                },
+                {
+                    "id": "nathula-pass",
+                    "name": "Nathula Pass",
+                    "description": "Mountain pass connecting India and Tibet.",
+                    "image": "img/Tourists/Nathula.jpeg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Nathu_La"
+                },
+                {
+                    "id": "yumthang-valley",
+                    "name": "Yumthang Valley",
+                    "description": "Known as the Valley of Flowers of Sikkim.",
+                    "image": "img/Tourists/Yumthang.jpeg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Yumthang_Valley"
+                },
+                {
+                    "id": "pelling",
+                    "name": "Pelling",
+                    "description": "Famous for views of Kanchenjunga peak.",
+                    "image": "img/Tourists/Pelling.cms",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Pelling"
                 }
             ]
         },
@@ -1359,16 +1887,39 @@
             "history": "Telangana was part of the Hyderabad State under the Nizam before merging with India in 1948. It was joined with Andhra State in 1956 to form Andhra Pradesh. However, due to perceived neglect, a long movement for separate statehood was led by various student and political groups. After decades of protests, Telangana was officially formed on June 2, 2014, as India’s 29th state (later 28th after J&K split). Hyderabad is its capital and also serves Andhra for 10 years as part of the bifurcation agreement.",
             "touristPlaces": [
                 {
+                    "id": "charminar",
                     "name": "Charminar",
                     "description": "Iconic monument in Hyderabad, built in 1591.",
                     "image": "img/Tourists/Charminar.jpg",
                     "moreInfoLink": "https://en.wikipedia.org/wiki/Charminar"
                 },
                 {
+                    "id": "golconda-fort",
                     "name": "Golconda Fort",
                     "description": "A grand fortress known for its architecture and acoustics.",
                     "image": "img/Tourists/golcon.jpg",
                     "moreInfoLink": "https://en.wikipedia.org/wiki/Golkonda"
+                },
+                {
+                    "id": "ramoji-film-city",
+                    "name": "Ramoji Film City",
+                    "description": "World’s largest film studio complex, tourist hotspot.",
+                    "image": "img/Tourists/Ramoji.avif",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Ramoji_Film_City"
+                },
+                {
+                    "id": "hussain-sagar-lake",
+                    "name": "Hussain Sagar Lake",
+                    "description": "Artificial lake with giant Buddha statue in the center.",
+                    "image": "img/Tourists/Sagar.jpeg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Hussain_Sagar"
+                },
+                {
+                    "id": "thousand-pillar-temple",
+                    "name": "Thousand Pillar Temple",
+                    "description": "Historic temple at Warangal with Kakatiya architecture.",
+                    "image": "img/Tourists/Thousand.jpeg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Thousand_Pillar_Temple"
                 }
             ]
         },
@@ -1377,6 +1928,7 @@
             "name": "Tripura",
             "tagline": "Where Culture Meets Nature",
             "headerImage": "linear-gradient(135deg, #F85032 0%, #E73827 100%)",
+            "backgroundVideo": "videos/tripura.mp4",
             "mapCoordinates": {
                 "lat": 23.9408,
                 "lng": 91.9882
@@ -1413,16 +1965,39 @@
             "history": "Tripura was one of the princely states that acceded to India in 1949. It became a Union Territory and achieved full statehood on January 21, 1972. The region has a mix of tribal and Bengali cultures, and saw insurgency issues post-Partition due to large-scale migration. It is now largely peaceful, with significant contributions in handicrafts, bamboo art, and political awareness.",
             "touristPlaces": [
                 {
+                    "id": "neermahal",
                     "name": "Neermahal",
                     "description": "A water palace in the middle of Rudrasagar Lake, blending Hindu and Mughal architecture.",
                     "image": "img/Tourists/neermahal.jpg",
                     "moreInfoLink": "https://en.wikipedia.org/wiki/Neermahal"
                 },
                 {
+                    "id": "unakoti",
                     "name": "Unakoti",
                     "description": "Rock-cut sculptures and carvings dating back to 7th–9th century.",
                     "image": "img/Tourists/unakoti.jpg",
                     "moreInfoLink": "https://en.wikipedia.org/wiki/Unakoti"
+                },
+                {
+                    "id": "ujjayanta-palace",
+                    "name": "Ujjayanta Palace",
+                    "description": "Royal palace in Agartala, now a museum.",
+                    "image": "img/Tourists/Ujjayanta.jpeg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Ujjayanta_Palace"
+                },
+                {
+                    "id": "jampui-hills",
+                    "name": "Jampui Hills",
+                    "description": "Famous for orange orchards and scenic views.",
+                    "image": "img/Tourists/Jampui.jpeg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Jampui_Hills"
+                },
+                {
+                    "id": "sepahijala-wildlife-sanctuary",
+                    "name": "Sepahijala Wildlife Sanctuary",
+                    "description": "Known for clouded leopards and primates.",
+                    "image": "img/Tourists/Sepahijala.jpeg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Sepahijala_Wildlife_Sanctuary"
                 }
             ]
         },
@@ -1467,16 +2042,39 @@
             "history": "Formed on November 9, 2000, from the hill districts of Uttar Pradesh, it was initially named Uttaranchal, later changed to Uttarakhand in 2007. Known as the 'Dev Bhoomi' (Land of the Gods), it is home to sacred Hindu sites like Kedarnath, Badrinath, Haridwar, and Gangotri. It has a rich tradition of folk culture and Pahari heritage. Natural disasters like the 2013 floods deeply impacted the state, yet it continues to grow in eco-tourism and hydropower.",
             "touristPlaces": [
                 {
+                    "id": "kedarnath-temple",
+                    "name": "Kedarnath Temple",
+                    "description": "One of the twelve Jyotirlingas dedicated to Lord Shiva.",
+                    "image": "img/Tourists/Kedarnath.jpeg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Kedarnath_Temple"
+                },
+                {
+                    "id": "badrinath-temple",
+                    "name": "Badrinath Temple",
+                    "description": "One of the Char Dham pilgrimage sites.",
+                    "image": "img/Tourists/Badrinath.jpeg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Badrinath_Temple"
+                },
+                {
+                    "id": "valley-of-flowers",
                     "name": "Valley of Flowers",
                     "description": "A UNESCO World Heritage Site famous for endemic flora and alpine meadows.",
                     "image": "img/Tourists/flowers.jpg",
                     "moreInfoLink": "https://en.wikipedia.org/wiki/Valley_of_Flowers_National_Park"
                 },
                 {
+                    "id": "haridwar",
                     "name": "Haridwar",
                     "description": "A sacred city on the banks of the Ganges known for Ganga Aarti.",
                     "image": "img/Tourists/haridwar.jpg",
                     "moreInfoLink": "https://en.wikipedia.org/wiki/Haridwar"
+                },
+                {
+                    "id": "nainital",
+                    "name": "Nainital",
+                    "description": "Scenic hill station known for Naini Lake.",
+                    "image": "img/Tourists/Nainital.jpeg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Nainital"
                 }
             ]
         },
@@ -1523,22 +2121,39 @@
             "history": "Goa, located on the western coast of India, has a rich and unique history influenced by centuries of foreign rule. Originally part of the Mauryan Empire in the 3rd century BCE, Goa later came under the rule of the Kadambas, Chalukyas, and Yadavas. In 1510, the Portuguese, led by Afonso de Albuquerque, captured Goa from the Sultan of Bijapur and established it as the capital of Portuguese India. For over 450 years, Goa remained a Portuguese colony, making it the longest-held European colony in India. This colonial legacy deeply influenced Goa's architecture, religion (predominantly Catholicism), language, and culture. After India's independence in 1947, Portugal refused to hand over Goa. In response, India launched Operation Vijay on December 18, 1961, and liberated Goa, along with Daman and Diu, on December 19, 1961. Initially made a Union Territory, Goa was later granted statehood on May 30, 1987, becoming India’s 25th state. Today, Goa is known for its beautiful beaches, world heritage churches, vibrant festivals, and a unique blend of Indian and Portuguese cultures.",
             "touristPlaces": [
                 {
+                    "id": "baga-beach",
+                    "name": "Baga Beach",
+                    "description": "One of the most famous beaches in Goa, known for nightlife and water sports.",
+                    "image": "img/Tourists/baga.avif",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Baga_Beach"
+                },
+                {
+                    "id": "calangute-beach",
                     "name": "Calangute Beach",
                     "image": "img/Tourists/Calangute.jpeg",
                     "description": "Queen of Beaches with water sports and vibrant nightlife.",
                     "bestTimeToVisit": "November to February"
                 },
                 {
+                    "id": "basilica-bom-jesus",
                     "name": "Basilica of Bom Jesus",
                     "image": "img/Tourists/Basilica.jpg",
                     "description": "UNESCO site housing St. Francis Xavier's relics.",
                     "bestTimeToVisit": "October to March"
                 },
                 {
+                    "id": "dudhsagar-falls",
                     "name": "Dudhsagar Falls",
                     "image": "img/Tourists/Dudhsagar.jpg",
                     "description": "Four-tiered waterfall resembling a sea of milk.",
                     "bestTimeToVisit": "June to September"
+                },
+                {
+                    "id": "fort-aguada",
+                    "name": "Fort Aguada",
+                    "description": "A 17th-century Portuguese fort overlooking the Arabian Sea.",
+                    "image": "img/Tourists/aguada.jpg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Fort_Aguada"
                 }
             ],
             "festivals": [
@@ -1596,16 +2211,39 @@
             "history": "Once the center of British India, Bengal was partitioned during independence in 1947, leading to the formation of East Pakistan (now Bangladesh) and West Bengal as part of India. Historically, it was the home of Bengal Renaissance, and the base for reformers and revolutionaries like Raja Ram Mohan Roy, Subhas Chandra Bose, and Rabindranath Tagore. West Bengal was earlier united with Odisha and Bihar but became a separate state post-independence. Kolkata, its capital, remains a hub of literature, art, and politics.",
             "touristPlaces": [
                 {
+                    "id": "victoria-memorial",
                     "name": "Victoria Memorial",
                     "description": "A grand white marble museum built in memory of Queen Victoria.",
                     "image": "img/Tourists/victoria.jpg",
                     "moreInfoLink": "https://en.wikipedia.org/wiki/Victoria_Memorial,_Kolkata"
                 },
                 {
+                    "id": "sundarbans",
                     "name": "Sundarbans",
                     "description": "World’s largest mangrove forest and habitat of the Royal Bengal Tiger.",
                     "image": "img/Tourists/sundarbans.jpg",
                     "moreInfoLink": "https://en.wikipedia.org/wiki/Sundarbans"
+                },
+                {
+                    "id": "darjeeling",
+                    "name": "Darjeeling",
+                    "description": "Hill station famous for tea, toy train, and Kanchenjunga views.",
+                    "image": "img/Tourists/Darjeeling.jpg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Darjeeling"
+                },
+                {
+                    "id": "dakshineswar-kali-temple",
+                    "name": "Dakshineswar Kali Temple",
+                    "description": "Renowned Hindu temple dedicated to Goddess Kali, near Kolkata.",
+                    "image": "img/Tourists/Dakshineswar.jpeg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Dakshineswar_Kali_Temple"
+                },
+                {
+                    "id": "howrah-bridge",
+                    "name": "Howrah Bridge",
+                    "description": "Cantilever bridge over the Hooghly River, symbol of Kolkata.",
+                    "image": "img/Tourists/Howrah.jpeg",
+                    "moreInfoLink": "https://en.wikipedia.org/wiki/Howrah_Bridge"
                 }
             ]
         }

@@ -13,9 +13,16 @@
     <!-- Navigation would go here -->
 
     <div class="state-header" id="stateHeader">
-        <h1 id="stateName">State Name</h1>
-        <p class="tagline" id="stateTagline">State tagline or brief description</p>
+        <!-- Background Video -->
+        <video id="stateVideo" autoplay muted loop playsinline></video>
+
+        <!-- Overlay Text -->
+        <div class="overlay">
+            <h1 id="stateName">State Name</h1>
+            <p class="tagline" id="stateTagline">State tagline or brief description</p>
+        </div>
     </div>
+
 
     <div class="state-content">
         <!-- Map Section -->
@@ -65,9 +72,9 @@
             <h2 class="section-title"><i class="fas fa-camera"></i> Tourist Attractions</h2>
             <div class="tourist-places" id="touristPlaces"></div>
         </div>
-    </div>
 
-    
+        
+    </div>
 
     <script src="script.js"></script>
 </body>

@@ -37,6 +37,7 @@
       "history": "The Andaman and Nicobar Islands are a group of 572 islands located in the Bay of Bengal. These islands were historically used as penal settlements by the British, the most infamous being Cellular Jail (Kala Pani) in Port Blair. During World War II, the islands were occupied by the Japanese and were briefly administered by Netaji Subhas Chandra Bose in 1943 under the Azad Hind Government. After independence, the islands became a Union Territory in 1956. Today, they are a strategic military location and a hub for eco-tourism and marine biodiversity.",
       "touristPlaces": [
         {
+          "id": "radhanagar-beach",
           "name": "Radhanagar Beach",
           "image": "img/Tourists/radhanagar.jpeg",
           "description": "Voted as Asia's best beach with white sands and turquoise waters",
@@ -44,11 +45,33 @@
           "significance": "Ranked #7 in world's best beaches by Time Magazine"
         },
         {
+          "id": "cellular-jail",
           "name": "Cellular Jail",
           "image": "img/Tourists/cellular.jpeg",
           "description": "Historic colonial prison used by British to exile freedom fighters",
           "bestTimeToVisit": "October to March",
           "significance": "National Memorial Monument"
+        },
+        {
+          "id": "ross-island",
+          "name": "Ross Island",
+          "description": "Ruins of British administrative buildings surrounded by scenic beauty.",
+          "image": "img/Tourists/Ross.jpeg",
+          "moreInfoLink": "https://en.wikipedia.org/wiki/Ross_Island"
+        },
+        {
+          "id": "baratang-island",
+          "name": "Baratang Island",
+          "description": "Famous for limestone caves, mangrove creeks, and mud volcanoes.",
+          "image": "img/Tourists/Baratang1.jpeg",
+          "moreInfoLink": "https://en.wikipedia.org/wiki/Baratang_Island"
+        },
+        {
+          "id": "neil-island",
+          "name": "Neil Island",
+          "description": "A peaceful island known for coral reefs and white sandy beaches.",
+          "image": "img/Tourists/Neil.jpeg",
+          "moreInfoLink": "https://en.wikipedia.org/wiki/Neil_Island"
         }
       ],
       "festivals": [
@@ -105,6 +128,7 @@
       "history": "Delhi has been a historical capital of India across centuries, ruled by Mauryas, Mughals, Delhi Sultanate, and British. It became the capital of British India in 1911, replacing Calcutta. After independence, it was a Union Territory and later given partial statehood under the 69th Constitutional Amendment Act in 1991, making it the National Capital Territory (NCT). Delhi has its own elected government, but key areas like law and order remain under central control. It houses the President, Prime Minister, Parliament, and Supreme Court.",
       "touristPlaces": [
         {
+          "id": "red-fort",
           "name": "Red Fort",
           "image": "img/Tourists/red_fort.jpeg",
           "description": "17th-century Mughal fort and UNESCO World Heritage Site",
@@ -112,11 +136,33 @@
           "significance": "Prime Minister addresses nation from here on Independence Day"
         },
         {
+          "id": "qutub-minar",
           "name": "Qutub Minar",
           "image": "img/Tourists/qutub.jpeg",
           "description": "73m tall victory tower built in 1193",
           "bestTimeToVisit": "October to March",
           "significance": "UNESCO World Heritage Site"
+        },
+        {
+          "id": "india-gate",
+          "name": "India Gate",
+          "description": "War memorial dedicated to Indian soldiers who died in WWI.",
+          "image": "img/Tourists/India.jpeg",
+          "moreInfoLink": "https://en.wikipedia.org/wiki/India_Gate"
+        },
+        {
+          "id": "lotus-temple",
+          "name": "Lotus Temple",
+          "description": "Baháʼí House of Worship known for its lotus-shaped architecture.",
+          "image": "img/Tourists/Lotus.jpeg",
+          "moreInfoLink": "https://en.wikipedia.org/wiki/Lotus_Temple"
+        },
+        {
+          "id": "humayuns-tomb",
+          "name": "Humayun’s Tomb",
+          "description": "A UNESCO World Heritage site, precursor to the Taj Mahal.",
+          "image": "img/Tourists/Humayun.jpeg",
+          "moreInfoLink": "https://en.wikipedia.org/wiki/Humayun%27s_Tomb"
         }
       ],
       "festivals": [
@@ -175,6 +221,7 @@
       "history": "Puducherry was a French colony until 1954, when it was de facto transferred to India (de jure in 1962). It consists of four unconnected districts: Puducherry, Karaikal (Tamil Nadu), Mahe (Kerala), and Yanam (Andhra Pradesh). Puducherry retains a strong French cultural influence, seen in its architecture, food, and street names. It is a Union Territory with a legislature, one of only three in India (along with Delhi and Jammu & Kashmir).",
       "touristPlaces": [
         {
+          "id": "promenade-beach",
           "name": "Promenade Beach",
           "image": "img/Tourists/promenade.jpeg",
           "description": "1.5km long beachfront with colonial architecture",
@@ -182,11 +229,33 @@
           "significance": "Iconic seaside boulevard"
         },
         {
+          "id": "auroville",
           "name": "Auroville",
           "image": "img/Tourists/auroville.jpeg",
           "description": "Experimental township focused on human unity",
           "bestTimeToVisit": "November to February",
           "significance": "International community founded in 1968"
+        },
+        {
+          "id": "sri-aurobindo-ashram",
+          "name": "Sri Aurobindo Ashram",
+          "description": "Spiritual community founded by Sri Aurobindo in 1926.",
+          "image": "img/Tourists/Aurobindo.jpeg",
+          "moreInfoLink": "https://en.wikipedia.org/wiki/Sri_Aurobindo_Ashram"
+        },
+        {
+          "id": "paradise-beach",
+          "name": "Paradise Beach",
+          "description": "Pristine, serene beach accessible via boat from Chunnambar.",
+          "image": "img/Tourists/Paradise.jpeg",
+          "moreInfoLink": "https://en.wikipedia.org/wiki/Paradise_Beach,_Puducherry"
+        },
+        {
+          "id": "french-quarter",
+          "name": "French Quarter",
+          "description": "Colonial area known for colorful streets and French-style architecture.",
+          "image": "img/Tourists/French.jpeg",
+          "moreInfoLink": "https://en.wikipedia.org/wiki/French_Quarter,_Pondicherry"
         }
       ],
       "festivals": [
@@ -237,6 +306,7 @@
       "history": "Chandigarh was created as a planned city after Partition in 1947, when Lahore became part of Pakistan. It was designed by French architect Le Corbusier and serves as a model of urban planning and architecture. It became a Union Territory in 1966, after Punjab was bifurcated into Punjab and Haryana. Interestingly, Chandigarh functions as the capital of both Punjab and Haryana, but is not part of either state. It is known for its greenery, cleanliness, and modern infrastructure.",
       "touristPlaces": [
         {
+          "id": "rock-garden",
           "name": "Rock Garden",
           "image": "img/Tourists/rock.jpeg",
           "description": "40-acre sculpture garden made from industrial waste",
@@ -244,11 +314,33 @@
           "significance": "Created by Nek Chand from recycled materials"
         },
         {
+          "id": "sukhna-lake",
           "name": "Sukhna Lake",
           "image": "img/Tourists/sukhna.jpeg",
           "description": "Man-made reservoir with boating facilities",
           "bestTimeToVisit": "October to March",
           "significance": "Popular morning walk spot"
+        },
+        {
+          "id": "rose-garden",
+          "name": "Rose Garden",
+          "description": "Asia’s largest garden of roses with over 1,600 species.",
+          "image": "img/Tourists/Rose.jpeg",
+          "moreInfoLink": "https://en.wikipedia.org/wiki/Zakir_Hussain_Rose_Garden"
+        },
+        {
+          "id": "leisure-valley",
+          "name": "Leisure Valley",
+          "description": "A series of gardens stretching over 8 km, known as the lungs of the city.",
+          "image": "img/Tourists/Leisure2.jpeg",
+          "moreInfoLink": "https://en.wikipedia.org/wiki/Leisure_Valley"
+        },
+        {
+          "id": "pinjore-gardens",
+          "name": "Pinjore Gardens",
+          "description": "Historic Mughal-style gardens with fountains and pavilions.",
+          "image": "img/Tourists/pinjore.jpg",
+          "moreInfoLink": "https://en.wikipedia.org/wiki/Pinjore_Gardens"
         }
       ],
       "festivals": [
@@ -298,6 +390,7 @@
       "history": "Ladakh was part of the state of Jammu and Kashmir until 2019, when it was carved out as a separate Union Territory. It includes the districts of Leh and Kargil and is known for its Buddhist heritage, high-altitude deserts, and strategic military significance due to its borders with China (LAC) and Pakistan (LoC). Though it lacks a legislature, it has Autonomous Hill Development Councils in both districts to ensure regional representation and development.",
       "touristPlaces": [
         {
+          "id": "pangong-lake",
           "name": "Pangong Lake",
           "image": "img/Tourists/pangong.jpeg",
           "description": "High-altitude lake that changes colors",
@@ -305,11 +398,33 @@
           "significance": "Featured in movie '3 Idiots'"
         },
         {
+          "id": "nubra-valley",
           "name": "Nubra Valley",
-          "image": "img/Tourists/nubra.jpeg",
+          "image": "img/Tourists/Nubra4.jpg",
           "description": "High altitude cold desert with double-humped camels",
           "bestTimeToVisit": "June to September",
           "significance": "Gateway to Siachen Glacier"
+        },
+        {
+          "id": "leh-palace",
+          "name": "Leh Palace",
+          "description": "9-storey historic palace with panoramic views of Leh town.",
+          "image": "img/Tourists/Leh.jpeg",
+          "moreInfoLink": "https://en.wikipedia.org/wiki/Leh_Palace"
+        },
+        {
+          "id": "magnetic-hill",
+          "name": "Magnetic Hill",
+          "description": "Gravity-defying slope where vehicles appear to roll uphill.",
+          "image": "img/Tourists/Magnetic.jpeg",
+          "moreInfoLink": "https://en.wikipedia.org/wiki/Magnetic_Hill,_Ladakh"
+        },
+        {
+          "id": "shanti-stupa",
+          "name": "Shanti Stupa",
+          "description": "White-domed Buddhist pagoda offering sunset views of Leh.",
+          "image": "img/Tourists/Stupa.jpeg",
+          "moreInfoLink": "https://en.wikipedia.org/wiki/Shanti_Stupa,_Leh"
         }
       ],
       "festivals": [
@@ -359,22 +474,39 @@
       "history": "Dadra and Nagar Haveli and Daman and Diu is a Union Territory formed by merging two former Portuguese territories—Dadra and Nagar Haveli, which was liberated by Indian nationalists in 1954, and Daman and Diu, which was annexed by India in 1961 during Operation Vijay, along with Goa. These regions, despite their geographical separation and distinct cultural influences, were merged on January 26, 2020, to improve administrative efficiency. The Union Territory retains a strong Portuguese colonial legacy, visible in its architecture, churches, language influence, and traditional festivals.",
       "touristPlaces": [
         {
+          "id": "diu-fort",
           "name": "Diu Fort",
           "image": "img/Tourists/Diu.jpg",
           "description": "16th-century Portuguese fort with sea views and cannons.",
           "bestTimeToVisit": "October to March"
         },
         {
+          "id": "silvassa",
           "name": "Silvassa",
           "image": "img/Tourists/silvassa.jpeg",
           "description": "Capital of Dadra & Nagar Haveli with tribal museums and waterfalls.",
           "bestTimeToVisit": "November to February"
         },
         {
+          "id": "devka-beach",
+          "name": "Devka Beach",
+          "description": "Popular beach in Daman with an amusement park nearby.",
+          "image": "img/Tourists/Devka.jpeg",
+          "moreInfoLink": "https://en.wikipedia.org/wiki/Devka_Beach"
+        },
+        {
+          "id": "jampore-beach",
           "name": "Jampore Beach, Daman",
           "image": "img/Tourists/jampore.jpeg",
           "description": "Pristine beach with black sand and Portuguese-era churches nearby.",
           "bestTimeToVisit": "October to May"
+        },
+        {
+          "id": "naida-caves",
+          "name": "Naida Caves",
+          "description": "Naturally formed caves near Diu Fort with intricate rock formations.",
+          "image": "img/Tourists/Naida.jpeg",
+          "moreInfoLink": "https://en.wikipedia.org/wiki/Naida_Caves"
         }
       ],
       "festivals": [
@@ -425,18 +557,35 @@
       "history": "Lakshadweep is India’s smallest Union Territory, consisting of 36 coral islands in the Arabian Sea. The name means “a hundred thousand islands.” These islands were historically influenced by Arab traders, and Islam spread early here. It became a Union Territory in 1956. The islands are known for their pristine ecology, lagoons, and marine life, and efforts are ongoing to develop them as a sustainable eco-tourism zone.",
       "touristPlaces": [
         {
+          "id": "agatti-island",
           "name": "Agatti Island",
           "image": "img/Tourists/Agatti.jpeg",
           "description": "Gateway to Lakshadweep with turquoise lagoons and coral reefs perfect for snorkeling.",
           "bestTimeToVisit": "October to March"
         },
         {
+          "id": "bangaram-atoll",
           "name": "Bangaram Atoll",
           "image": "img/Tourists/Bangaram.jpeg",
           "description": "Uninhabited island with white sandy beaches and spectacular marine life.",
           "bestTimeToVisit": "October to May"
         },
         {
+          "id": "kalpeni-island",
+          "name": "Kalpeni Island",
+          "description": "Island famous for lagoons, palm trees, and beaches.",
+          "image": "img/Tourists/Kalpeni.jpeg",
+          "moreInfoLink": "https://en.wikipedia.org/wiki/Kalpeni"
+        },
+        {
+          "id": "minicoy-island",
+          "name": "Minicoy Island",
+          "description": "Southernmost island known for lighthouse and traditional culture.",
+          "image": "img/Tourists/Minicoy.jpeg",
+          "moreInfoLink": "https://en.wikipedia.org/wiki/Minicoy"
+        },
+        {
+          "id": "kavaratti-island",
           "name": "Kavaratti Island",
           "image": "img/Tourists/Kavaratti.jpeg",
           "description": "Capital island known for its marine aquarium and pristine beaches.",
@@ -494,16 +643,39 @@
       "history": "Jammu and Kashmir was a princely state that acceded to India in October 1947 under Maharaja Hari Singh following a tribal invasion from Pakistan. It enjoyed special autonomy under Article 370, which was abrogated on August 5, 2019, leading to the bifurcation of the state into two Union Territories—Jammu and Kashmir (with a legislative assembly) and Ladakh (without legislature). Since October 31, 2019, Jammu and Kashmir has been under the direct administration of the Central Government, with provisions for holding elections to enable local governance.",
       "touristPlaces": [
         {
-          "name": "Dal Lake",
-          "image": "img/Tourists/dal.jpeg",
-          "description": "Famous for its houseboats and shikara rides with mountain views.",
-          "bestTimeToVisit": "April to October"
+          "id": "srinagar-dal-lake",
+          "name": "Srinagar Dal Lake",
+          "description": "Famous lake known for its houseboats, shikaras, and scenic beauty.",
+          "image": "img/Tourists/Srinagar.jpeg",
+          "moreInfoLink": "https://en.wikipedia.org/wiki/Dal_Lake_(Srinagar)"
         },
         {
+          "id": "sonmarg",
+          "name": "Sonmarg",
+          "description": "Known as the 'Meadow of Gold', Sonmarg is famous for its snow-capped mountains, glaciers, and trekking routes.",
+          "image": "img/Tourists/Sonmarg.jpeg",
+          "moreInfoLink": "https://en.wikipedia.org/wiki/Sonamarg"
+        },
+        {
+          "id": "gulmarg",
           "name": "Gulmarg",
           "image": "img/Tourists/gulmarg.jpg",
           "description": "Popular skiing destination with the world's highest gondola ride.",
           "bestTimeToVisit": "December to March (snow), April to June (flowers)"
+        },
+        {
+          "id": "pahalgam",
+          "name": "Pahalgam",
+          "description": "Valley town known for trekking, riverside beauty, and Lidder River.",
+          "image": "img/Tourists/Pahalgam.jpeg",
+          "moreInfoLink": "https://en.wikipedia.org/wiki/Pahalgam"
+        },
+        {
+          "id": "vaishno-devi-temple",
+          "name": "Vaishno Devi Temple",
+          "description": "Major Hindu pilgrimage site in the Trikuta Mountains.",
+          "image": "img/Tourists/Vaishno.jpeg",
+          "moreInfoLink": "https://en.wikipedia.org/wiki/Vaishno_Devi"
         }
       ],
       "festivals": [
