@@ -6229,41 +6229,6 @@
         "img/Tourists/Paradise3.jpeg"
       ],
       "map": "https://www.google.com/maps?q=Paradise+Beach+Puducherry&output=embed"
-    },
-    {
-      "id": "french-quarter",
-      "name": "French Quarter",
-      "tagline": "Colonial heritage area",
-      "heroVideo": "videos/french-quarter.mp4",
-      "description": "The French Quarter in Puducherry is known for its colonial-era architecture, colorful streets, cafes, and cultural charm.",
-      "history": "Also called 'White Town,' it reflects Puducherry’s French colonial past and attracts tourists for walks and photography.",
-      "cost": [
-        {
-          "type": "Travel",
-          "price": "₹50 - ₹500",
-          "details": "Local transport or walking tour",
-          "icon": "fas fa-bus"
-        },
-        {
-          "type": "Entry",
-          "price": "Free",
-          "details": "Open to public",
-          "icon": "fas fa-ticket-alt"
-        },
-        {
-          "type": "Accommodation",
-          "price": "₹2000 - ₹7000/night",
-          "details": "Hotels and boutique stays",
-          "icon": "fas fa-hotel"
-        }
-      ],
-      "videoTour": "https://www.youtube.com/embed/qrst3344",
-      "gallery": [
-        "img/Tourists/French1.jpeg",
-        "img/Tourists/French2.jpeg",
-        "img/Tourists/French3.jpeg"
-      ],
-      "map": "https://www.google.com/maps?q=French+Quarter+Puducherry&output=embed"
     }
   ]
 }
